@@ -6,8 +6,8 @@ import { useEffect, useState } from "react";
 import { AlbumArt } from "@/components/AlbumArt";
 import { FeedbackControls } from "@/components/FeedbackControls";
 import { BackButton, BottomNav } from "@/components/layout/BottomNav";
+import { DiscoveryBadges, discoverySubtitle } from "@/components/ui/DiscoveryBadges";
 import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
-import { Badge } from "@/components/ui/Badge";
 import { useSessionStore } from "@/lib/store/session";
 
 export function ResultDetailClient() {
@@ -54,11 +54,9 @@ export function ResultDetailClient() {
           <div className="min-w-0 flex-1 pt-1">
             <h1 className="text-2xl font-black leading-tight text-white">{song.song_name}</h1>
             <p className="mt-1 text-lg text-spotify-subtext">{artist.name}</p>
-            <div className="mt-2 flex flex-wrap gap-2">
-              {matchedSignals.isHiddenGem && <Badge variant="gem">Hidden Gem</Badge>}
-            </div>
+            <DiscoveryBadges signals={matchedSignals} className="mt-2 gap-2" />
             <p className="mt-2 text-xs text-spotify-subtext-dim">
-              {song.genre} • Discovery pick
+              {song.genre} • {discoverySubtitle(matchedSignals)} pick
             </p>
             <div className="mt-4 flex items-center gap-3">
               <button

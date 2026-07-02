@@ -7,6 +7,7 @@ import {
   computePersonalScore,
   scoreSong,
 } from "../lib/scoring/scores";
+import { computeIsTrending } from "../lib/scoring/trending";
 import type { Artist, Song, SongWithArtist } from "../types";
 import type { DiscoveryIntent } from "../lib/intent/schema";
 
@@ -156,6 +157,35 @@ function main() {
   const balancedFinal = computeFinalScore(0.2, 0.9, "balanced");
   const adventurousFinal = computeFinalScore(0.2, 0.9, "adventurous");
   assert(adventurousFinal > balancedFinal, "adventurous weighting boosts cultural component");
+
+  // Trending badge signal
+  const trendingSong = makeSong({
+    community_buzz_score: 0.8,
+    popularity: 62,
+    hidden_gem_flag: false,
+  });
+  assert(computeIsTrending(trendingSong, 0.8), "high buzz non-gem qualifies as trending");
+  const trendingCultural = computeCulturalScore(trendingSong);
+  assert(trendingCultural.signals.isTrending, "cultural score exposes isTrending");
+
+  const hiddenTrendingBuzz = makeSong({
+    community_buzz_score: 0.9,
+    hidden_gem_flag: true,
+  });
+  assert(
+    !computeIsTrending(hiddenTrendingBuzz, 0.9),
+    "hidden gems are not labeled trending",
+  );
+
+  const rankedTrending = rankSongs(
+    [withArtist(trendingSong, artist)],
+    makeIntent({ intent: "trending" }),
+    profile,
+  );
+  assert(
+    rankedTrending.candidates[0]?.matchedSignals.isTrending === true,
+    "ranked candidates include isTrending",
+  );
 
   console.log(`\n=== Results: ${passed} passed, ${failed} failed ===`);
   process.exit(failed > 0 ? 1 : 0);

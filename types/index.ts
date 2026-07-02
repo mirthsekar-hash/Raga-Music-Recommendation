@@ -79,6 +79,7 @@ export interface MatchedSignals {
   artistMatch?: string;
   isHiddenGem: boolean;
   isEmergingArtist: boolean;
+  isTrending: boolean;
   communityBuzzScore: number;
   inversePopularity: number;
 }

@@ -19,6 +19,7 @@ interface RecommendApiResponse {
       moodMatch?: string;
       isHiddenGem: boolean;
       isEmergingArtist: boolean;
+      isTrending: boolean;
       communityBuzzScore: number;
     };
   }>;
@@ -56,6 +57,7 @@ function printCandidates(label: string, result: RecommendApiResponse) {
       c.matchedSignals.moodMatch && `mood:${c.matchedSignals.moodMatch}`,
       c.matchedSignals.isHiddenGem && "hidden_gem",
       c.matchedSignals.isEmergingArtist && "emerging",
+      c.matchedSignals.isTrending && "trending",
     ]
       .filter(Boolean)
       .join(", ");

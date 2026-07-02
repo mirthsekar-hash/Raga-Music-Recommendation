@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { AlbumArt } from "@/components/AlbumArt";
+import { DiscoveryBadges, discoverySubtitle } from "@/components/ui/DiscoveryBadges";
 import { FeedbackControls } from "@/components/FeedbackControls";
 import { BackButton, BottomNav, RagaLogo } from "@/components/layout/BottomNav";
 import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
@@ -29,8 +30,9 @@ function ResultListCard({ card }: { card: RecommendationCard }) {
             <p className="truncate font-bold text-white">{song.song_name}</p>
             <p className="truncate text-sm text-spotify-subtext">{artist.name}</p>
             <p className="mt-0.5 text-xs text-spotify-subtext-dim">
-              {song.genre} • {matchedSignals.isHiddenGem ? "Hidden gem" : "Discovery"}
+              {song.genre} • {discoverySubtitle(matchedSignals)}
             </p>
+            <DiscoveryBadges signals={matchedSignals} className="mt-2" />
           </div>
           <button
             type="button"

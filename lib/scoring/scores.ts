@@ -1,5 +1,6 @@
 import type { DiscoveryIntent } from "@/lib/intent/schema";
 import type { Artist, MatchedSignals, Song, TasteProfile } from "@/types";
+import { computeIsTrending } from "@/lib/scoring/trending";
 import {
   CULTURAL_SIGNAL_WEIGHTS,
   PERSONAL_SIGNAL_WEIGHTS,
@@ -171,7 +172,7 @@ export function computeCulturalScore(song: Song): {
   score: number;
   signals: Pick<
     MatchedSignals,
-    "isHiddenGem" | "isEmergingArtist" | "communityBuzzScore" | "inversePopularity"
+    "isHiddenGem" | "isEmergingArtist" | "isTrending" | "communityBuzzScore" | "inversePopularity"
   >;
 } {
   const popularity = Math.max(0, Math.min(100, song.popularity));
@@ -190,6 +191,7 @@ export function computeCulturalScore(song: Song): {
     signals: {
       isHiddenGem: song.hidden_gem_flag,
       isEmergingArtist: song.emerging_artist_flag,
+      isTrending: computeIsTrending(song, buzz),
       communityBuzzScore: buzz,
       inversePopularity: roundScore(inversePopularity),
     },

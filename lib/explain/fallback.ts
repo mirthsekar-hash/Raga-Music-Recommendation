@@ -5,7 +5,7 @@ import { truncateForCard } from "@/lib/explain/schema";
 
 function defaultDiscoverySource(candidate: RecommendationCandidate, intent: DiscoveryIntent): string {
   const { matchedSignals } = candidate;
-  if (intent.intent === "trending" && matchedSignals.communityBuzzScore >= 0.7) {
+  if (matchedSignals.isTrending || (intent.intent === "trending" && matchedSignals.communityBuzzScore >= 0.7)) {
     return "Trending in listener communities";
   }
   if (matchedSignals.isHiddenGem && matchedSignals.isEmergingArtist) {
@@ -60,7 +60,8 @@ export function templateExplanation(
   const interestingBits: string[] = [];
   if (matchedSignals.isHiddenGem) interestingBits.push("a hidden gem");
   if (matchedSignals.isEmergingArtist) interestingBits.push("an emerging artist");
-  if (matchedSignals.communityBuzzScore >= 0.7) {
+  if (matchedSignals.isTrending) interestingBits.push("trending in communities");
+  else if (matchedSignals.communityBuzzScore >= 0.7) {
     interestingBits.push("solid community buzz");
   }
   if (song.popularity <= 35) interestingBits.push("off the mainstream radar");

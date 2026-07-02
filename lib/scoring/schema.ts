@@ -14,6 +14,7 @@ export const MatchedSignalsSchema = z.object({
   artistMatch: z.string().optional(),
   isHiddenGem: z.boolean(),
   isEmergingArtist: z.boolean(),
+  isTrending: z.boolean(),
   communityBuzzScore: z.number(),
   inversePopularity: z.number(),
 });

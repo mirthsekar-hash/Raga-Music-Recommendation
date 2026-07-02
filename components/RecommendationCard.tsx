@@ -4,7 +4,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { AlbumArt } from "@/components/AlbumArt";
 import { FeedbackControls } from "@/components/FeedbackControls";
-import { Badge } from "@/components/ui/Badge";
+import { DiscoveryBadges } from "@/components/ui/DiscoveryBadges";
 import { truncateForCard } from "@/lib/explain/schema";
 import type { RecommendationCard } from "@/types";
 
@@ -40,9 +40,7 @@ export function RecommendationCardView({
           <div className="min-w-0 flex-1">
             <p className="truncate text-sm font-bold text-white">{song.song_name}</p>
             <p className="truncate text-xs text-spotify-subtext">{artist.name}</p>
-            <div className="mt-1.5 flex flex-wrap gap-1">
-              {matchedSignals.isHiddenGem && <Badge variant="gem">Hidden Gem</Badge>}
-            </div>
+            <DiscoveryBadges signals={matchedSignals} className="mt-1.5 gap-1.5" />
             <p className="mt-1.5 line-clamp-2 text-[10px] text-spotify-subtext-dim">
               {truncateForCard(explanation.whyYoullLikeIt, 80)}
             </p>
@@ -63,10 +61,7 @@ export function RecommendationCardView({
         <div className="min-w-0 flex-1">
           <p className="truncate font-bold text-white">{song.song_name}</p>
           <p className="truncate text-sm text-spotify-subtext">{artist.name}</p>
-          <div className="mt-2 flex flex-wrap gap-1.5">
-            {matchedSignals.isHiddenGem && <Badge variant="gem">Hidden Gem</Badge>}
-            {matchedSignals.isEmergingArtist && <Badge variant="emerging">Emerging</Badge>}
-          </div>
+          <DiscoveryBadges signals={matchedSignals} className="mt-2 gap-1.5" />
           <p className="mt-2 line-clamp-2 text-xs text-spotify-subtext-dim">
             {truncateForCard(explanation.whyYoullLikeIt)}
           </p>

@@ -1,4 +1,4 @@
-type BadgeVariant = "gem" | "emerging" | "genre" | "neutral";
+type BadgeVariant = "gem" | "emerging" | "trending" | "genre" | "neutral";
 
 interface BadgeProps {
   variant?: BadgeVariant;
@@ -9,6 +9,7 @@ interface BadgeProps {
 const styles: Record<BadgeVariant, string> = {
   gem: "bg-spotify-green/15 text-spotify-green border-spotify-green/30",
   emerging: "bg-purple-500/15 text-purple-300 border-purple-500/30",
+  trending: "bg-orange-500/15 text-orange-300 border-orange-500/30",
   genre: "bg-white/10 text-spotify-subtext border-white/10",
   neutral: "bg-spotify-surface text-spotify-subtext border-spotify-highlight",
 };

@@ -17,6 +17,8 @@ import {
   isOffensiveInput,
   SAFE_REFUSAL_REPLY,
 } from "@/lib/explain/prompt";
+import { isIrrelevantInput, IRRELEVANT_TOPIC_REPLY } from "@/lib/intent/relevance";
+import { FALLBACK_INTENT } from "@/lib/intent/schema";
 import type { ChatResponse } from "@/lib/explain/schema";
 import { GeminiQuotaExceededError } from "@/lib/gemini/generate";
 import { extractIntent } from "@/lib/intent/extract";
@@ -63,6 +65,35 @@ export async function orchestrateChat(
         sessionId,
         chatReply: SAFE_REFUSAL_REPLY,
         intent: { intent: "general_discovery", explorationLevel: "balanced" },
+        cards: [],
+      },
+    };
+  }
+
+  if (isIrrelevantInput(message)) {
+    let sessionId = input.sessionId;
+    let createdSession = false;
+
+    if (sessionId) {
+      const existing = await getSession(sessionId);
+      if (!existing) {
+        throw new Error("Session not found");
+      }
+    } else {
+      sessionId = await createSession();
+      createdSession = true;
+    }
+
+    const fallbackIntent = { ...FALLBACK_INTENT };
+    await appendUserTurn(sessionId, message, fallbackIntent);
+    await appendAssistantTurn(sessionId, IRRELEVANT_TOPIC_REPLY);
+
+    return {
+      createdSession,
+      response: {
+        sessionId,
+        chatReply: IRRELEVANT_TOPIC_REPLY,
+        intent: fallbackIntent,
         cards: [],
       },
     };

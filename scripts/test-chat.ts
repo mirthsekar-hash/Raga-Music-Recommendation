@@ -23,7 +23,7 @@ interface ChatApiResponse {
       song: { id: string; song_name: string; genre: string };
       artist: { name: string };
       finalScore: number;
-      matchedSignals: { isHiddenGem: boolean; isEmergingArtist: boolean };
+      matchedSignals: { isHiddenGem: boolean; isEmergingArtist: boolean; isTrending?: boolean };
     };
     explanation: {
       songId: string;
