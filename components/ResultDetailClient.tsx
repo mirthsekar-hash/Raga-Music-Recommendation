@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import { AlbumArt } from "@/components/AlbumArt";
 import { FeedbackControls } from "@/components/FeedbackControls";
 import { BackButton, BottomNav } from "@/components/layout/BottomNav";
+import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { Badge } from "@/components/ui/Badge";
 import { useSessionStore } from "@/lib/store/session";
 
@@ -40,9 +41,12 @@ export function ResultDetailClient() {
       <div className="px-4 pb-32 pt-2">
         <header className="mb-4 flex items-center justify-between">
           <BackButton href="/results" />
-          <button type="button" className="text-spotify-subtext" aria-label="More">
-            ⋮
-          </button>
+          <div className="flex items-center gap-2">
+            <SpotifyLogo size="sm" />
+            <button type="button" className="text-spotify-subtext" aria-label="More">
+              ⋮
+            </button>
+          </div>
         </header>
 
         <div className="flex gap-4">

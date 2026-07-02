@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { AlbumArt } from "@/components/AlbumArt";
 import { BackButton, BottomNav } from "@/components/layout/BottomNav";
+import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { FeedbackApiError, postFeedback } from "@/lib/api/feedback-client";
 import { FEEDBACK_NEXT, FEEDBACK_TAGS } from "@/lib/constants/ui";
 import { useSessionStore } from "@/lib/store/session";
@@ -102,9 +103,12 @@ export function FeedbackScreen({ songId }: FeedbackScreenProps) {
       <header className="flex items-center justify-between px-4 py-3 pt-10">
         <BackButton href={`/results/${songId}`} />
         <h1 className="text-sm font-bold text-white">Share your feedback</h1>
-        <button type="button" className="text-spotify-subtext" aria-label="Info">
-          ⓘ
-        </button>
+        <div className="flex items-center gap-2">
+          <SpotifyLogo size="sm" />
+          <button type="button" className="text-spotify-subtext" aria-label="Info">
+            ⓘ
+          </button>
+        </div>
       </header>
 
       <main className="flex-1 overflow-y-auto px-4 pb-28">

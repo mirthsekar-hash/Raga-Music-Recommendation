@@ -9,9 +9,11 @@ import { useSessionStore } from "@/lib/store/session";
 import { BottomNav, RagaLogo } from "@/components/layout/BottomNav";
 import { RecommendationGrid } from "@/components/RecommendationGrid";
 import { ChatLoadingSkeleton } from "@/components/ui/Skeleton";
+import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { ErrorState } from "@/components/ui/ErrorState";
 import { ServiceBanner } from "@/components/ui/ServiceBanner";
 import { TypewriterText } from "@/components/ui/TypewriterText";
+import { SendIcon } from "@/components/ui/SendIcon";
 
 const WELCOME =
   "Perfect! I can help you with that. What kind of vibe are you looking for?";
@@ -26,7 +28,7 @@ export function ChatWindow() {
   const initialQuery = searchParams.get("q")?.trim() ?? "";
 
   const [input, setInput] = useState(initialQuery);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(() => Boolean(initialQuery));
   const [statusMessage, setStatusMessage] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [degradedNotice, setDegradedNotice] = useState<string | null>(null);
@@ -113,6 +115,7 @@ export function ChatWindow() {
   useEffect(() => {
     if (!hydrated || autoSentRef.current || !initialQuery) return;
     autoSentRef.current = true;
+    setStatusMessage("Starting your discovery…");
     void sendMessage(initialQuery);
   }, [hydrated, initialQuery, sendMessage]);
 
@@ -141,6 +144,7 @@ export function ChatWindow() {
           <RagaLogo size="sm" />
         </div>
         <div className="flex items-center gap-2">
+          <SpotifyLogo size="sm" />
           <button
             type="button"
             onClick={() => {
@@ -305,7 +309,7 @@ export function ChatWindow() {
             className="absolute right-1.5 top-1/2 flex h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full bg-spotify-green text-black disabled:opacity-40 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-spotify-green"
             aria-label="Send message"
           >
-            ➤
+            <SendIcon size={16} />
           </button>
         </form>
         <p className="mt-2 text-center text-[10px] text-spotify-subtext-dim">

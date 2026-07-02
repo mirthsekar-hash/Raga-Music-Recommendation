@@ -6,6 +6,7 @@ import { EmptyState } from "@/components/ui/EmptyState";
 import { AlbumArt } from "@/components/AlbumArt";
 import { FeedbackControls } from "@/components/FeedbackControls";
 import { BackButton, BottomNav, RagaLogo } from "@/components/layout/BottomNav";
+import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { EXPLORE_CATEGORIES, FILTER_PILLS } from "@/lib/constants/ui";
 import { truncateForCard } from "@/lib/explain/schema";
 import { useSessionStore } from "@/lib/store/session";
@@ -96,9 +97,12 @@ export function ResultsScreen() {
           <BackButton href="/chat" />
           <RagaLogo size="sm" />
         </div>
-        <button type="button" className="text-spotify-subtext" aria-label="Filter">
-          ⧩
-        </button>
+        <div className="flex items-center gap-3">
+          <SpotifyLogo size="sm" />
+          <button type="button" className="text-spotify-subtext" aria-label="Filter">
+            ⧩
+          </button>
+        </div>
       </header>
 
       <div className="flex gap-2 overflow-x-auto px-4 py-3 scrollbar-hide">
