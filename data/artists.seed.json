@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "cc07c860-7390-5031-9fad-cceb42744c8a",
+    "name": "Big Thief",
+    "genres": [
+      "indie"
+    ],
+    "similar_artists": [
+      "Snail Mail",
+      "Japanese Breakfast",
+      "Soccer Mommy"
+    ],
+    "bio": "US indie folk band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "9f81247f-7f57-42f3-a8ba-75bef554e591",
+    "artist_popularity_proxy": 37,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "7169ac74-0618-5b09-b2fc-3bef5f9066bd",
+    "name": "Snail Mail",
+    "genres": [
+      "folk",
+      "indie"
+    ],
+    "similar_artists": [
+      "Phoebe Bridgers",
+      "Fleet Foxes",
+      "Bon Iver"
+    ],
+    "bio": "US indie rock solo project by Lindsey Erin Jordan",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "86cd4d38-857c-42bd-a5da-9acedcab1e01",
+    "artist_popularity_proxy": 45,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "faf5fce9-ea75-5c26-9b37-09b1a2c37a48",
+    "name": "Japanese Breakfast",
+    "genres": [
+      "indie"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Soccer Mommy"
+    ],
+    "bio": "Michelle Zauner's solo project and band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "8c529495-91f5-4e2f-b71b-adcb66878d04",
+    "artist_popularity_proxy": 22,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "31dd08fd-b047-5f44-aa69-560847b2d53e",
+    "name": "Soccer Mommy",
+    "genres": [
+      "indie"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "84803b1d-dcb3-490d-9af5-debbba64a011",
+    "artist_popularity_proxy": 53,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "80bd941c-0932-579f-b96b-7286ab578db9",
+    "name": "Phoebe Bridgers",
+    "genres": [
+      "folk",
+      "indie"
+    ],
+    "similar_artists": [
+      "Snail Mail",
+      "Fleet Foxes",
+      "Bon Iver"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+    "artist_popularity_proxy": 56,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "10006a94-e658-53fb-8207-265109bf525e",
+    "name": "Clairo",
+    "genres": [
+      "indie"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+    "artist_popularity_proxy": 51,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "5565f034-3509-5cfa-b6f2-230fe6e1a5df",
+    "name": "beabadoobee",
+    "genres": [
+      "indie"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+    "artist_popularity_proxy": 63,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "8171ec87-4cc0-5708-9350-6cf9bb5fe81d",
+    "name": "Wallows",
+    "genres": [
+      "rock",
+      "indie"
+    ],
+    "similar_artists": [
+      "Radiohead",
+      "Arctic Monkeys",
+      "The War on Drugs"
+    ],
+    "bio": "LA alt rock",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "9fae44ec-b95c-4b0f-a0a6-f0008613eabf",
+    "artist_popularity_proxy": 43,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "4fc99fb5-f469-5735-90d4-f709308e2c28",
+    "name": "Bonobo",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Tycho",
+      "Four Tet",
+      "Caribou"
+    ],
+    "bio": "UK electronic artist Simon Green",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+    "artist_popularity_proxy": 23,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "5190df1c-0d55-5fe1-ad8d-2d7de52a2e87",
+    "name": "Tycho",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Four Tet",
+      "Caribou"
+    ],
+    "bio": "US electronic producer/songwriter Scott Hansen from SF",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "cbef45a9-7acb-4325-94c9-70081ac8d1b8",
+    "artist_popularity_proxy": 34,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "f4d46c4c-7efb-546c-b0d0-c04caa08ade1",
+    "name": "Four Tet",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Caribou"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "3bcff06f-675a-451f-9075-99e8657047e8",
+    "artist_popularity_proxy": 55,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "707910bb-a9a9-59a9-a3af-9908e92cb0b0",
+    "name": "Caribou",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "electronic act from Dan Snaith",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "735e3514-a8ae-401f-af3b-6300df1b8d2c",
+    "artist_popularity_proxy": 55,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "92163086-3bdd-59e4-9abd-e8a5d96836a7",
+    "name": "Floating Points",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97",
+    "artist_popularity_proxy": 63,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "0d738236-5788-55c5-864b-d2bdd2fab92a",
+    "name": "ODESZA",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "2e222fce-02ae-4221-b1c6-3c3242b423b6",
+    "artist_popularity_proxy": 33,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "66450414-eb1e-5fb8-9f06-aef167be3b08",
+    "name": "RÜFÜS DU SOL",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "Australian band, fka RÜFÜS",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "1cfa6ee5-1189-4ade-97db-8f20a6ba5c76",
+    "artist_popularity_proxy": 69,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "0c85bbf8-eb75-5f04-9056-a767deab4024",
+    "name": "Disclosure",
+    "genres": [
+      "electronic"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "UK electronic duo Guy & Howard Lawrence",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+    "artist_popularity_proxy": 64,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "c67b4de8-df34-5af9-ae17-f245ff620133",
+    "name": "Nujabes",
+    "genres": [
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "idealism",
+      "tomppabeats"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "1595addf-f76b-450a-a097-af852ff35f27",
+    "artist_popularity_proxy": 65,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "6df1f880-7858-5469-9fa4-191e2319e3c3",
+    "name": "J Dilla",
+    "genres": [
+      "hip-hop",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "eevee",
+      "SwuM",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "US producer and rapper aka Jay Dee",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
+    "artist_popularity_proxy": 24,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "393a4fed-70af-593f-abb1-725f60acae00",
+    "name": "idealism",
+    "genres": [
+      "electronic",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "instrumental hip‐hop artist",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "44ade048-ea16-4161-abb6-7794ebefad19",
+    "artist_popularity_proxy": 38,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "fe4833a4-d567-5295-be00-aad8b519e277",
+    "name": "tomppabeats",
+    "genres": [
+      "electronic",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "50e66415-ca79-4f18-9ba2-3b893b0fd32c",
+    "artist_popularity_proxy": 41,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "f46a4e3f-9af3-50d4-9592-4da23950af5e",
+    "name": "Kupla",
+    "genres": [
+      "electronic",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "2140553b-34d8-4b97-b08c-d77c32f60e81",
+    "artist_popularity_proxy": 55,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "cbbad3c7-0c0f-5a02-b923-36352042a3c9",
+    "name": "Aso",
+    "genres": [
+      "electronic",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "instrumental hip‐hop artist",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "71bce1a8-9a0c-43b7-b0b1-2c07f562ce64",
+    "artist_popularity_proxy": 41,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "91202708-639b-574a-bb30-42d66699fdbd",
+    "name": "eevee",
+    "genres": [
+      "hip-hop",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "SwuM",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "instrumental hip hop producer",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "b06c5359-2cb9-4e24-91f7-6eabdc93a1da",
+    "artist_popularity_proxy": 19,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "b65babe3-a918-56d2-bbc8-93eadfc00a9e",
+    "name": "SwuM",
+    "genres": [
+      "hip-hop",
+      "lo-fi"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "07236348-572d-4a28-9405-a547b5c968d4",
+    "artist_popularity_proxy": 60,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "2c635958-1204-529a-bead-0a698865d2c3",
+    "name": "Kamasi Washington",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Robert Glasper",
+      "Esperanza Spalding",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "US jazz saxophonist",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "c7a3e868-c6d8-4512-a5ef-f6cbe42899b0",
+    "artist_popularity_proxy": 49,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "a334ea53-f724-569a-ada1-340cf3c8b0d3",
+    "name": "Robert Glasper",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Esperanza Spalding",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "piano",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "6e8f82ea-9e6d-4fdd-9b32-32feef13186b",
+    "artist_popularity_proxy": 65,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "69468d05-a32b-5bd3-86da-11d14d9a38a0",
+    "name": "Esperanza Spalding",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Robert Glasper",
+      "BADBADNOTGOOD"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "5c12b265-5e59-44e0-b657-5cf4169f7316",
+    "artist_popularity_proxy": 27,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "2f12490d-9be3-5858-b602-acb466cdb014",
+    "name": "BADBADNOTGOOD",
+    "genres": [
+      "hip-hop",
+      "jazz"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "Canadian instrumental band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "754294d5-d7d2-4ea2-8184-1dcaaf55a56f",
+    "artist_popularity_proxy": 27,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "4c3bc796-eaed-5822-996c-8c1349e22236",
+    "name": "Nubya Garcia",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Robert Glasper",
+      "Esperanza Spalding"
+    ],
+    "bio": "English jazz musician",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "42dd1862-7255-47ed-8584-651abce3bf53",
+    "artist_popularity_proxy": 35,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "bdaeab1b-919c-5114-b431-5a444272e7cf",
+    "name": "GoGo Penguin",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Robert Glasper",
+      "Esperanza Spalding"
+    ],
+    "bio": "UK jazz trio",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "b328de0e-ee48-4d74-9d36-7c7ee16ffc69",
+    "artist_popularity_proxy": 53,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "ddb6d622-2d53-5b75-997b-d3c0d997195c",
+    "name": "Christian Scott",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Robert Glasper",
+      "Esperanza Spalding"
+    ],
+    "bio": "video game music composer",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "ebdb5e01-cd26-4ca4-b57e-af8ff2fb1835",
+    "artist_popularity_proxy": 40,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "28177fb1-a60c-5039-8c20-b376368cb0d3",
+    "name": "Hiromi",
+    "genres": [
+      "jazz"
+    ],
+    "similar_artists": [
+      "Kamasi Washington",
+      "Robert Glasper",
+      "Esperanza Spalding"
+    ],
+    "bio": "Japanese vocalist from Amuse",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "ab3e1803-033b-4a4e-9bff-133e106579cd",
+    "artist_popularity_proxy": 5,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "9b86dce5-bd77-50d1-a955-29c8f709b35b",
+    "name": "Fleet Foxes",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "fa97dd36-1b82-43d7-a6e4-2adeafd59cef",
+    "artist_popularity_proxy": 37,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "6ed4c2ee-b3a2-5862-88ea-f82365a27057",
+    "name": "Bon Iver",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "US indie folk band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "437a0e49-c6ae-42f6-a6c1-84f25ed366bc",
+    "artist_popularity_proxy": 37,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "013ae7ef-8a8f-5629-94a5-29c8c1eeded1",
+    "name": "Angel Olsen",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "185527bf-c293-4c24-8213-ed98fb8976be",
+    "artist_popularity_proxy": 59,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "6f6dfc2e-9f4d-59e1-9a77-6005616bb1d0",
+    "name": "Iron & Wine",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "c3f28da8-662d-4f09-bdc7-3084bf685930",
+    "artist_popularity_proxy": 42,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "4e0543eb-2cd8-596a-a0fa-341e63f63373",
+    "name": "Sufjan Stevens",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+    "artist_popularity_proxy": 48,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "9675db3a-bd56-546e-a935-016178d548aa",
+    "name": "The Tallest Man on Earth",
+    "genres": [
+      "folk"
+    ],
+    "similar_artists": [
+      "Snail Mail",
+      "Phoebe Bridgers",
+      "Fleet Foxes"
+    ],
+    "bio": "Swedish singer‐songwriter",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
+    "artist_popularity_proxy": 17,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "3c3c4f3a-b29d-5041-8168-b771a5c694f3",
+    "name": "José González",
+    "genres": [
+      "folk"
+    ],
+    "similar_artists": [
+      "Snail Mail",
+      "Phoebe Bridgers",
+      "Fleet Foxes"
+    ],
+    "bio": "Swedish singer-songwriter and guitarist",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
+    "artist_popularity_proxy": 28,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "97034f51-bfa5-5da2-9493-ae8874b7b301",
+    "name": "Big Red Machine",
+    "genres": [
+      "indie",
+      "folk"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "Bon Iver's Justin Vernon and The National's Aaron Dessner",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "6757d72a-3ac9-4ccb-b69b-39f691477180",
+    "artist_popularity_proxy": 40,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "a8a132d3-2345-540d-afa4-78318e175c58",
+    "name": "Kendrick Lamar",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+    "artist_popularity_proxy": 67,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "13f56373-459a-5157-ab3e-d3909b3d8706",
+    "name": "Tyler, The Creator",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+    "artist_popularity_proxy": 23,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "b31bc680-7b4d-53cf-b32d-97ac2ec4a073",
+    "name": "Noname",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "Chicago rapper",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "1395c84b-2e84-4f25-9962-f1c0d5aa31ed",
+    "artist_popularity_proxy": 32,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "a43e691d-ad4e-51a3-a847-047b3bd564cc",
+    "name": "Earl Sweatshirt",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+    "artist_popularity_proxy": 56,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "16310aad-3838-5949-a8c5-67416296e590",
+    "name": "MAVI",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "rapper",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "175a1b69-7a19-4881-b1ca-fe6b84ff3a2d",
+    "artist_popularity_proxy": 45,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "b2944ada-9f69-5009-8c0e-107a984958de",
+    "name": "JID",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "rapper",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+    "artist_popularity_proxy": 24,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "bc920558-7f6a-5d1b-8a40-a42cb7caf326",
+    "name": "Saba",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "US rapper, member of Pivot",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "057d211a-fba8-42d7-ad14-41f41d6f762f",
+    "artist_popularity_proxy": 20,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "676df396-5c8d-569b-aa83-e7a49c2bd9e8",
+    "name": "Danny Brown",
+    "genres": [
+      "hip-hop"
+    ],
+    "similar_artists": [
+      "J Dilla",
+      "eevee",
+      "SwuM"
+    ],
+    "bio": "US rapper",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "960afc67-9c21-46dd-9c7f-ff2b509e3150",
+    "artist_popularity_proxy": 33,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "9dc312ce-6338-56e2-8715-d833884a9322",
+    "name": "SZA",
+    "genres": [
+      "electronic",
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "Bonobo",
+      "Tycho",
+      "Four Tet"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+    "artist_popularity_proxy": 65,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "f9333086-af2b-5e24-9b0a-746d7efa2e6f",
+    "name": "Frank Ocean",
+    "genres": [
+      "pop",
+      "r-n-b"
+    ],
+    "similar_artists": [],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+    "artist_popularity_proxy": 31,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "92c4b944-89ad-54dc-9855-ec00279ccbe2",
+    "name": "Solange",
+    "genres": [
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Frank Ocean",
+      "Moses Sumney"
+    ],
+    "bio": "US RnB vocalist Solange Knowles",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "410e7fd3-b865-4fa0-bb18-1b7fd53382ca",
+    "artist_popularity_proxy": 17,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "435d6e9b-80d4-56bb-b378-b1cbf00c586a",
+    "name": "Moses Sumney",
+    "genres": [
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Frank Ocean",
+      "Solange"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "89c081d4-2ab2-4d3e-8589-ad77dfc40384",
+    "artist_popularity_proxy": 39,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "723961e4-d425-515c-a055-fbdaab22678f",
+    "name": "Jamila Woods",
+    "genres": [
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Frank Ocean",
+      "Solange"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "a357b4fb-b0ca-4b4e-9b6b-2030bb2ce2d6",
+    "artist_popularity_proxy": 36,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "a9a262d8-9fa0-5ecc-97a6-e700d813c55c",
+    "name": "Daniel Caesar",
+    "genres": [
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Frank Ocean",
+      "Solange"
+    ],
+    "bio": "Canadian R&B/soul singer‐songwriter",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+    "artist_popularity_proxy": 35,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "091a810f-ee18-544f-b7a1-9969ad972fa4",
+    "name": "H.E.R.",
+    "genres": [
+      "r-n-b"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Frank Ocean",
+      "Solange"
+    ],
+    "bio": "US R&B artist",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "93998e01-ff53-4af7-ba2a-5674adcdf21e",
+    "artist_popularity_proxy": 30,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "f7e5b9ad-7b03-5824-afe2-2a4d847d8efb",
+    "name": "Snoh Aalegra",
+    "genres": [
+      "soul",
+      "r-n-b"
+    ],
+    "similar_artists": [],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "636e0fb6-f2ad-45fc-b385-4d994665e7e3",
+    "artist_popularity_proxy": 39,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "9fd0ee6f-68d7-5037-9dc5-591c103ab7e4",
+    "name": "Radiohead",
+    "genres": [
+      "rock"
+    ],
+    "similar_artists": [
+      "Wallows",
+      "Arctic Monkeys",
+      "The War on Drugs"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "artist_popularity_proxy": 55,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "97fde50a-3aa5-5717-978e-7acde69cd9ba",
+    "name": "Arctic Monkeys",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+    "artist_popularity_proxy": 63,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "38b81fb4-4d09-5684-b438-6ecd21f5a22e",
+    "name": "The War on Drugs",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "87b9b3b8-ab93-426c-a200-4012d667a626",
+    "artist_popularity_proxy": 45,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "e1775c4e-ef37-58ad-8f95-ecbbfb158da3",
+    "name": "Wet Leg",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "90744b3e-363a-458e-8da1-e3e392a489c4",
+    "artist_popularity_proxy": 55,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "e8f57002-ef4b-5528-be13-a561039f64b2",
+    "name": "black midi",
+    "genres": [
+      "rock"
+    ],
+    "similar_artists": [
+      "Wallows",
+      "Radiohead",
+      "Arctic Monkeys"
+    ],
+    "bio": "UK experimental rock band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "4afbef0a-05ee-4551-b0e0-f1f1870d8f1c",
+    "artist_popularity_proxy": 48,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "f3ac0f3f-7f59-580d-bd25-cc04db115f1c",
+    "name": "Fontaines D.C.",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+    "artist_popularity_proxy": 48,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "71980341-6677-5a24-bcb8-aa82fe9ccbd5",
+    "name": "IDLES",
+    "genres": [
+      "rock"
+    ],
+    "similar_artists": [
+      "Wallows",
+      "Radiohead",
+      "Arctic Monkeys"
+    ],
+    "bio": "post‐punk",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "be465d4f-c28d-4ba1-94ab-ebaada7db8af",
+    "artist_popularity_proxy": 41,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "0f647110-4d7b-5511-8a69-ef6d7444941d",
+    "name": "Geese",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Big Thief",
+      "Snail Mail",
+      "Japanese Breakfast"
+    ],
+    "bio": "Brooklyn, NY",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "e0c97a4d-c392-41a9-a374-57af3e3eeab3",
+    "artist_popularity_proxy": 53,
+    "emerging_artist_flag": false
+  },
+  {
+    "id": "9cf7a2ae-92fa-52ec-9a42-e000e4b0b0cb",
+    "name": "Brian Eno",
+    "genres": [
+      "ambient"
+    ],
+    "similar_artists": [
+      "Hammock",
+      "Stars of the Lid"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+    "artist_popularity_proxy": 37,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "5620a6b4-d54a-5020-a845-a8c4212cf25b",
+    "name": "Hammock",
+    "genres": [
+      "ambient"
+    ],
+    "similar_artists": [
+      "Brian Eno",
+      "Stars of the Lid"
+    ],
+    "bio": "ambient / post-rock band",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "5b9d784c-33eb-4a78-a976-c97b672370fa",
+    "artist_popularity_proxy": 20,
+    "emerging_artist_flag": true
+  },
+  {
+    "id": "c50671fc-6708-5a26-85bd-2bb58e8225a7",
+    "name": "Stars of the Lid",
+    "genres": [
+      "ambient"
+    ],
+    "similar_artists": [
+      "Brian Eno",
+      "Hammock"
+    ],
+    "bio": "",
+    "source": "musicbrainz",
+    "musicbrainz_artist_mbid": "a1154343-1ea1-4007-97d3-2382482a90cd",
+    "artist_popularity_proxy": 21,
+    "emerging_artist_flag": true
+  }
+]

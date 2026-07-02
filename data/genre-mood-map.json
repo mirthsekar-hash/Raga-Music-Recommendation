@@ -1,0 +1,17 @@
+{
+  "indie": ["melancholic", "introspective", "chill"],
+  "electronic": ["energetic", "hypnotic", "chill"],
+  "lo-fi": ["chill", "melancholic", "dreamy"],
+  "hip-hop": ["energetic", "confident", "groovy"],
+  "ambient": ["dreamy", "chill", "ethereal"],
+  "rock": ["energetic", "raw", "anthemic"],
+  "jazz": ["smooth", "sophisticated", "chill"],
+  "folk": ["warm", "introspective", "acoustic"],
+  "metal": ["intense", "aggressive", "energetic"],
+  "pop": ["upbeat", "catchy", "energetic"],
+  "r-n-b": ["smooth", "soulful", "groovy"],
+  "soul": ["warm", "soulful", "groovy"],
+  "classical": ["ethereal", "contemplative", "dramatic"],
+  "latin": ["energetic", "groovy", "passionate"],
+  "world": ["hypnotic", "warm", "rhythmic"]
+}

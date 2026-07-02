@@ -1,0 +1,3598 @@
+[
+  {
+    "id": "0268bb0f-fb7a-5231-924e-165ca632491d",
+    "song_name": "Under Her Arm (Demo)",
+    "artist_id": "cc07c860-7390-5031-9fad-cceb42744c8a",
+    "artist_name": "Big Thief",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 62,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.709,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "eb6d7da7-e248-4e2e-b2e4-2021809494a9",
+    "musicbrainz_release_mbid": "6bedc3f8-1ea1-4a44-98b6-5a70b2d02246"
+  },
+  {
+    "id": "b1d2b09d-411a-52c1-9c2f-f40c06cc4989",
+    "song_name": "Incomprehensible",
+    "artist_id": "cc07c860-7390-5031-9fad-cceb42744c8a",
+    "artist_name": "Big Thief",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 31,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.863,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "910bb06e-7657-43d3-8a1a-1534684a91d8"
+  },
+  {
+    "id": "3497ae58-7a46-56bf-92e7-80fc92ae372c",
+    "song_name": "Wide Winged Bird Part I",
+    "artist_id": "cc07c860-7390-5031-9fad-cceb42744c8a",
+    "artist_name": "Big Thief",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 32,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.866,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "031a9ff4-cdfc-4c7c-acb3-1d7f906da4f6",
+    "musicbrainz_release_mbid": "2849fb1f-61cc-4872-8bf5-f38147f03e9c"
+  },
+  {
+    "id": "5215f96b-7cc6-5fa8-b275-a62ed178c546",
+    "song_name": "The Woman That Loves You",
+    "artist_id": "faf5fce9-ea75-5c26-9b37-09b1a2c37a48",
+    "artist_name": "Japanese Breakfast",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 13,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.675,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4eb543bb-a214-4624-ae32-dbb2c80479b7",
+    "musicbrainz_release_mbid": "a4f4b238-f2b1-4432-9973-17ed237037ec"
+  },
+  {
+    "id": "7c7aad3d-5d40-5e4f-acc3-6f605149e545",
+    "song_name": "Boyish",
+    "artist_id": "faf5fce9-ea75-5c26-9b37-09b1a2c37a48",
+    "artist_name": "Japanese Breakfast",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 40,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.712,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d14ca1ce-695d-4414-b04f-a22c25a0da18",
+    "musicbrainz_release_mbid": "eb257724-923b-419f-855f-11a5085a9d27"
+  },
+  {
+    "id": "b2fbe645-04f9-5b2e-94e5-7641de4a78a0",
+    "song_name": "Day 1",
+    "artist_id": "faf5fce9-ea75-5c26-9b37-09b1a2c37a48",
+    "artist_name": "Japanese Breakfast",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 13,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.678,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ed6e5d98-10a1-4afb-95fe-c3fd1aeb2b2a",
+    "musicbrainz_release_mbid": "66ccd822-c51a-4607-9d54-6f110937cc84"
+  },
+  {
+    "id": "a994db06-5ae7-5e8c-ab2a-917ae05e7795",
+    "song_name": "I’m Only Me When I’m With You",
+    "artist_id": "31dd08fd-b047-5f44-aa69-560847b2d53e",
+    "artist_name": "Soccer Mommy",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 65,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.716,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "da0afd6c-033f-4061-8a2e-89f4460aadff",
+    "musicbrainz_release_mbid": "f22695b3-0d59-4659-96fc-b87c3559a0fa"
+  },
+  {
+    "id": "ed2235da-3378-5d55-82fd-bf0d7f862f73",
+    "song_name": "Here",
+    "artist_id": "31dd08fd-b047-5f44-aa69-560847b2d53e",
+    "artist_name": "Soccer Mommy",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 66,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.719,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c1e557ab-2b5a-4719-bfa4-499d4e356128",
+    "musicbrainz_release_mbid": "a766218f-4c0d-4339-97dd-ca8d281d6e80"
+  },
+  {
+    "id": "1a761256-9aea-5637-9eee-007739c0e315",
+    "song_name": "Losing My Religion",
+    "artist_id": "31dd08fd-b047-5f44-aa69-560847b2d53e",
+    "artist_name": "Soccer Mommy",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 66,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.723,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "50986543-7103-44c7-84ee-74b5f878a87c",
+    "musicbrainz_release_mbid": "a766218f-4c0d-4339-97dd-ca8d281d6e80"
+  },
+  {
+    "id": "acdfafdb-4da1-5cad-9ce8-e5e7279cf8d9",
+    "song_name": "Pretty Girl",
+    "artist_id": "10006a94-e658-53fb-8207-265109bf525e",
+    "artist_name": "Clairo",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 63,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.682,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3a45c9d1-6884-472b-8d74-bb11ceb5193c",
+    "musicbrainz_release_mbid": "ab2efeef-dfb0-4f6c-a29e-f798732c41f9"
+  },
+  {
+    "id": "eeae59a1-7c58-564a-b1ae-9e79fc44076c",
+    "song_name": "2 Hold U",
+    "artist_id": "10006a94-e658-53fb-8207-265109bf525e",
+    "artist_name": "Clairo",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 63,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.685,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "cee8886c-192b-47c3-b69d-c13d0d28cf00",
+    "musicbrainz_release_mbid": "18311290-103a-4075-ada8-17ecb73f52a7"
+  },
+  {
+    "id": "13f633a6-1b6e-5a25-b778-250dbd7b9a66",
+    "song_name": "mix: unseen",
+    "artist_id": "10006a94-e658-53fb-8207-265109bf525e",
+    "artist_name": "Clairo",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 55,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.688,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "545119cc-d0dd-4b1f-ac9c-be009100e5c3",
+    "musicbrainz_release_mbid": "ac18c768-8b57-4da6-95e9-12537d160e88"
+  },
+  {
+    "id": "0a03210c-91e3-5ddc-bf30-90b50e6e933f",
+    "song_name": "the way things go",
+    "artist_id": "5565f034-3509-5cfa-b6f2-230fe6e1a5df",
+    "artist_name": "beabadoobee",
+    "genre": "metal",
+    "mood": [
+      "intense",
+      "aggressive"
+    ],
+    "popularity": 84,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.545,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0e011401-8380-48f3-b4bf-ad89e5e8e6ae",
+    "musicbrainz_release_mbid": "7e3046d5-ef39-4009-a26c-422186bd759e"
+  },
+  {
+    "id": "b7d37bf8-ead0-5aeb-8e90-4211ffc170a8",
+    "song_name": "Glue Song",
+    "artist_id": "5565f034-3509-5cfa-b6f2-230fe6e1a5df",
+    "artist_name": "beabadoobee",
+    "genre": "metal",
+    "mood": [
+      "intense",
+      "aggressive"
+    ],
+    "popularity": 85,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.548,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "33c2f4f4-c793-4067-9b42-4d32329b438f",
+    "musicbrainz_release_mbid": "966264c9-3a86-4a18-8258-f0b11627ed83"
+  },
+  {
+    "id": "fc0486cc-3e37-5f3c-882f-3747797e9fbe",
+    "song_name": "See You Soon",
+    "artist_id": "5565f034-3509-5cfa-b6f2-230fe6e1a5df",
+    "artist_name": "beabadoobee",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 79,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.726,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "47e7c748-c818-4802-bfe9-7224c3bc217e",
+    "musicbrainz_release_mbid": "709f3312-c7fc-4798-acde-9144d9460c09"
+  },
+  {
+    "id": "50a768f2-1bba-5f3c-8cb9-04b5a85bd4a3",
+    "song_name": "Textbook Love",
+    "artist_id": "9b86dce5-bd77-50d1-a955-29c8f709b35b",
+    "artist_name": "Fleet Foxes",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 80,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.794,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "785666b8-5c9c-457f-894d-75f811b6acaa",
+    "musicbrainz_release_mbid": "b71b6a8f-b6c4-4d25-98e4-6c72b2474667"
+  },
+  {
+    "id": "9cb3af3f-7140-59a5-bb2d-d19e81c25cf5",
+    "song_name": "Drops in the River",
+    "artist_id": "9b86dce5-bd77-50d1-a955-29c8f709b35b",
+    "artist_name": "Fleet Foxes",
+    "genre": "metal",
+    "mood": [
+      "intense",
+      "aggressive"
+    ],
+    "popularity": 85,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.552,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "8bd9a830-4322-4a5c-ac56-e2a391c33e20",
+    "musicbrainz_release_mbid": "a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46"
+  },
+  {
+    "id": "e18d9459-5478-5dc3-9a0c-c7216702546f",
+    "song_name": "White Winter Hymnal",
+    "artist_id": "9b86dce5-bd77-50d1-a955-29c8f709b35b",
+    "artist_name": "Fleet Foxes",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 27,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.869,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "77abe7b3-be4a-44f1-9d28-61b8f9fc514e",
+    "musicbrainz_release_mbid": "a3053236-8b24-4a52-9cac-d37d13ad4a0b"
+  },
+  {
+    "id": "a0c7a06f-4336-56f2-ba18-0b146e058495",
+    "song_name": "5-Leaf-Clover",
+    "artist_id": "7169ac74-0618-5b09-b2fc-3bef5f9066bd",
+    "artist_name": "Snail Mail",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 46,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.377,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6d929a2c-19d3-4d4b-9abc-c1d18672ee40",
+    "musicbrainz_release_mbid": "2c33dcd5-d71a-4ce5-87a5-fe2b01fa1272"
+  },
+  {
+    "id": "597dadd9-aab6-5ef6-aaf0-fc7bedc2878e",
+    "song_name": "Full Stop",
+    "artist_id": "4fc99fb5-f469-5735-90d4-f709308e2c28",
+    "artist_name": "Bonobo",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 11,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.459,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a015e11a-9088-49ea-b85a-dc1a0e43958c",
+    "musicbrainz_release_mbid": "feaee177-eb23-4e95-9b15-47e5d4e833e9"
+  },
+  {
+    "id": "7745fab0-d7c1-5e9e-9414-13b030ce71c8",
+    "song_name": "Hammond Pops",
+    "artist_id": "4fc99fb5-f469-5735-90d4-f709308e2c28",
+    "artist_name": "Bonobo",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 64,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.555,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "7ef8601e-cc94-4193-b922-6ecfabb0dedc",
+    "musicbrainz_release_mbid": "47a61c1b-2b2f-4e55-baee-85034d9c879e"
+  },
+  {
+    "id": "32e58487-226a-5e69-b073-8d335acef288",
+    "song_name": "Shape of my Eyes",
+    "artist_id": "4fc99fb5-f469-5735-90d4-f709308e2c28",
+    "artist_name": "Bonobo",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 50,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.381,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4b81b4d9-a7a9-4c39-8e99-468d667bd643",
+    "musicbrainz_release_mbid": "47a61c1b-2b2f-4e55-baee-85034d9c879e"
+  },
+  {
+    "id": "039c9c6e-f247-5ce2-89b0-91bc8eb35dce",
+    "song_name": "Cruisin’",
+    "artist_id": "5190df1c-0d55-5fe1-ad8d-2d7de52a2e87",
+    "artist_name": "Tycho",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 17,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.463,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "2d6e7cd3-2c5a-43af-ae62-720d4b7df704",
+    "musicbrainz_release_mbid": "a8d67894-b298-48b8-970e-3ebfa8c7f192"
+  },
+  {
+    "id": "0fec60a4-5dbe-5b58-97ab-82259975ac8f",
+    "song_name": "Marathon “Neo-Pacificist” OC ReMix",
+    "artist_id": "5190df1c-0d55-5fe1-ad8d-2d7de52a2e87",
+    "artist_name": "Tycho",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 27,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.586,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "f4aa4520-2c4b-4899-a1b8-46431250bfc5",
+    "musicbrainz_release_mbid": "96e25d92-e4c1-428a-8159-b9f2556e094e"
+  },
+  {
+    "id": "6c498d23-0965-5be5-8b93-83a3369efe40",
+    "song_name": "Cascade (live version)",
+    "artist_id": "5190df1c-0d55-5fe1-ad8d-2d7de52a2e87",
+    "artist_name": "Tycho",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 22,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.21,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "37e82548-a25e-4ed0-8d18-aa1ebcfdeb40",
+    "musicbrainz_release_mbid": "e22adef4-d49a-40d8-8b85-3ff0ecdbaf45"
+  },
+  {
+    "id": "bfa90004-2ef3-5d7e-b67a-c3f2b0297583",
+    "song_name": "Liquefaction",
+    "artist_id": "f4d46c4c-7efb-546c-b0d0-c04caa08ade1",
+    "artist_name": "Four Tet",
+    "genre": "classical",
+    "mood": [
+      "ethereal",
+      "contemplative"
+    ],
+    "popularity": 92,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.384,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "5420455d-6fe5-41c8-b59e-f5fc4db44842",
+    "musicbrainz_release_mbid": "974b3577-035b-427e-bf64-4bc887b9575a"
+  },
+  {
+    "id": "923c12b0-d731-5323-a36e-701d83befad0",
+    "song_name": "Calamine",
+    "artist_id": "f4d46c4c-7efb-546c-b0d0-c04caa08ade1",
+    "artist_name": "Four Tet",
+    "genre": "classical",
+    "mood": [
+      "ethereal",
+      "contemplative"
+    ],
+    "popularity": 91,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.388,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c73efab8-da2f-4c22-bf0d-7aaee201c15e",
+    "musicbrainz_release_mbid": "974b3577-035b-427e-bf64-4bc887b9575a"
+  },
+  {
+    "id": "7ca36fab-3b15-5b91-9f6e-a20e5286186c",
+    "song_name": "Aying",
+    "artist_id": "f4d46c4c-7efb-546c-b0d0-c04caa08ade1",
+    "artist_name": "Four Tet",
+    "genre": "classical",
+    "mood": [
+      "ethereal",
+      "contemplative"
+    ],
+    "popularity": 92,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.391,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "7a3a7dd5-a837-4c2a-b98a-7c62be9f97cf",
+    "musicbrainz_release_mbid": "f8852af3-8a15-414f-844a-0dbcfeffd446"
+  },
+  {
+    "id": "918ee8b9-af7b-5b07-b7c7-b963a7befbc6",
+    "song_name": "Honey",
+    "artist_id": "707910bb-a9a9-59a9-a3af-9908e92cb0b0",
+    "artist_name": "Caribou",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 76,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.292,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b6ec0c2f-adfe-466b-affb-dc2560d11155",
+    "musicbrainz_release_mbid": "34e9a8ee-99bd-470c-af6c-b45848312293"
+  },
+  {
+    "id": "5b343104-0009-53d3-8119-40728cf17402",
+    "song_name": "Got to Change",
+    "artist_id": "707910bb-a9a9-59a9-a3af-9908e92cb0b0",
+    "artist_name": "Caribou",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 76,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.295,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a52e6a4e-df96-49e2-a097-bfe18a7105b5",
+    "musicbrainz_release_mbid": "34e9a8ee-99bd-470c-af6c-b45848312293"
+  },
+  {
+    "id": "eae00477-8318-5ae4-a35e-c51d6a2f3206",
+    "song_name": "Climbing",
+    "artist_id": "707910bb-a9a9-59a9-a3af-9908e92cb0b0",
+    "artist_name": "Caribou",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 77,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.299,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b2e1c57b-ba02-490d-94d5-f631c916c49b",
+    "musicbrainz_release_mbid": "34e9a8ee-99bd-470c-af6c-b45848312293"
+  },
+  {
+    "id": "b495afc0-bb9f-521a-83a2-41cf6303a28a",
+    "song_name": "Peroration Five",
+    "artist_id": "92163086-3bdd-59e4-9abd-e8a5d96836a7",
+    "artist_name": "Floating Points",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 22,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.213,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "fb6cb6ad-0c4f-4fa0-aaf3-56cbd684272f",
+    "musicbrainz_release_mbid": "e2847987-5883-4a04-ad5b-374f6a4b0a37"
+  },
+  {
+    "id": "164d401a-5d34-5ac1-847f-b1fbc494143b",
+    "song_name": "Untitled",
+    "artist_id": "92163086-3bdd-59e4-9abd-e8a5d96836a7",
+    "artist_name": "Floating Points",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 40,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.217,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "1f067908-682f-4a64-8a19-709b38f20323",
+    "musicbrainz_release_mbid": "fd77298f-6de0-497e-be66-bb4db8a3d7dd"
+  },
+  {
+    "id": "15bdf553-e117-5f31-beee-a637059d643d",
+    "song_name": "Vocoder (club mix)",
+    "artist_id": "92163086-3bdd-59e4-9abd-e8a5d96836a7",
+    "artist_name": "Floating Points",
+    "genre": "world",
+    "mood": [
+      "hypnotic",
+      "warm"
+    ],
+    "popularity": 86,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.395,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ff854fe5-0ac1-4055-80bd-472b7cbc8bdf",
+    "musicbrainz_release_mbid": "28f9b053-0348-46b8-a386-2096b8035fc4"
+  },
+  {
+    "id": "a26a00a2-518f-5063-8b91-9214ff201a6b",
+    "song_name": "Today",
+    "artist_id": "0d738236-5788-55c5-864b-d2bdd2fab92a",
+    "artist_name": "ODESZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 80,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.559,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "25ff7e40-3afa-499b-81bb-35e9c2ff3465",
+    "musicbrainz_release_mbid": "810e1c3e-0f8e-43f8-944b-adeaa76dc757"
+  },
+  {
+    "id": "94307d98-98b0-5ada-9218-725a30ad3c7d",
+    "song_name": "Late Night",
+    "artist_id": "0d738236-5788-55c5-864b-d2bdd2fab92a",
+    "artist_name": "ODESZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 33,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.589,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c3bdabfa-db83-43be-a999-f6bb9a493d38",
+    "musicbrainz_release_mbid": "686b26b2-0ab2-4ce3-bbed-c814ce7417f3"
+  },
+  {
+    "id": "cd9561b3-0feb-5249-a25e-e693582d09ce",
+    "song_name": "Take It Easy",
+    "artist_id": "c67b4de8-df34-5af9-ae17-f245ff620133",
+    "artist_name": "Nujabes",
+    "genre": "lo-fi",
+    "mood": [
+      "chill",
+      "melancholic"
+    ],
+    "popularity": 88,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.798,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "218f7370-d984-4711-bb44-031ee0a1230f",
+    "musicbrainz_release_mbid": "a2bcec4f-3ac2-467e-9c23-9fb6371b43db"
+  },
+  {
+    "id": "77642836-f150-51c2-915e-8f1ce81b088f",
+    "song_name": "Froze Underneath",
+    "artist_id": "c67b4de8-df34-5af9-ae17-f245ff620133",
+    "artist_name": "Nujabes",
+    "genre": "lo-fi",
+    "mood": [
+      "chill",
+      "melancholic"
+    ],
+    "popularity": 89,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.801,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "662b3ec9-c516-4f62-8f0c-d770334a7e10",
+    "musicbrainz_release_mbid": "a2bcec4f-3ac2-467e-9c23-9fb6371b43db"
+  },
+  {
+    "id": "ea2716cc-cda5-5ae9-aebd-0eb1346ef425",
+    "song_name": "Friday I'm In Love",
+    "artist_id": "c67b4de8-df34-5af9-ae17-f245ff620133",
+    "artist_name": "Nujabes",
+    "genre": "lo-fi",
+    "mood": [
+      "chill",
+      "melancholic"
+    ],
+    "popularity": 89,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.805,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "71f4c60e-ce56-4805-87e4-166f56a18792",
+    "musicbrainz_release_mbid": "a2bcec4f-3ac2-467e-9c23-9fb6371b43db"
+  },
+  {
+    "id": "b07f513d-6424-53e5-8328-9da18d3a31d3",
+    "song_name": "Fashion Then and Now",
+    "artist_id": "2c635958-1204-529a-bead-0a698865d2c3",
+    "artist_name": "Kamasi Washington",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 57,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.22,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a323f191-8273-46b7-ab83-b5c37e79eb59",
+    "musicbrainz_release_mbid": "76d7ca53-5feb-4813-917d-c792a71ae1bb"
+  },
+  {
+    "id": "b84dea70-fbfa-5f63-bb79-e48c45c55bce",
+    "song_name": "Southside V.2",
+    "artist_id": "2c635958-1204-529a-bead-0a698865d2c3",
+    "artist_name": "Kamasi Washington",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 57,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.224,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "55759c5a-8c6f-4283-9a1d-340545db12a5",
+    "musicbrainz_release_mbid": "76d7ca53-5feb-4813-917d-c792a71ae1bb"
+  },
+  {
+    "id": "60f477a4-cf56-5777-b291-f9275bdb59e2",
+    "song_name": "Take in the Story",
+    "artist_id": "2c635958-1204-529a-bead-0a698865d2c3",
+    "artist_name": "Kamasi Washington",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 57,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.227,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "48237650-c72f-4a10-8f44-aa524803a073",
+    "musicbrainz_release_mbid": "76d7ca53-5feb-4813-917d-c792a71ae1bb"
+  },
+  {
+    "id": "713bc719-ae63-5c97-8d9d-8d82ddc0e364",
+    "song_name": "Smells Like Teen Spirit",
+    "artist_id": "a334ea53-f724-569a-ada1-340cf3c8b0d3",
+    "artist_name": "Robert Glasper",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 33,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.593,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "2fc56555-d013-4ce5-a69f-2153ff87a271",
+    "musicbrainz_release_mbid": "ef311d60-142d-4a7b-bd9f-169b4d67a408"
+  },
+  {
+    "id": "f1b96838-ebe6-5288-a230-2001f0160903",
+    "song_name": "Going Home",
+    "artist_id": "a334ea53-f724-569a-ada1-340cf3c8b0d3",
+    "artist_name": "Robert Glasper",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 87,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.302,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "2d433517-69f0-4338-9ac6-6145a7d982a8",
+    "musicbrainz_release_mbid": "f381f6da-d8f1-47fe-9bd7-2caa91d5eaee"
+  },
+  {
+    "id": "b528d9da-3589-5175-a9b2-84bd13e19ead",
+    "song_name": "Deep Down",
+    "artist_id": "a334ea53-f724-569a-ada1-340cf3c8b0d3",
+    "artist_name": "Robert Glasper",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 88,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.306,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "68cc5104-3ed2-435e-87c4-708658da5060",
+    "musicbrainz_release_mbid": "f381f6da-d8f1-47fe-9bd7-2caa91d5eaee"
+  },
+  {
+    "id": "7f17a23f-8d8e-5c61-9a62-594d1a0b59bc",
+    "song_name": "The Peacocks",
+    "artist_id": "69468d05-a32b-5bd3-86da-11d14d9a38a0",
+    "artist_name": "Esperanza Spalding",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 14,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.466,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "32833446-9f67-4a56-be04-80bba20144bc",
+    "musicbrainz_release_mbid": "57d034e3-2306-4fff-ae7c-9ec9f2907bf3"
+  },
+  {
+    "id": "3afd54ed-8d6a-5dde-9ed1-f553834669c4",
+    "song_name": "Humpty Dumpty",
+    "artist_id": "69468d05-a32b-5bd3-86da-11d14d9a38a0",
+    "artist_name": "Esperanza Spalding",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 14,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.47,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "f5afc600-1211-4b29-a705-6b160c368e84",
+    "musicbrainz_release_mbid": "57d034e3-2306-4fff-ae7c-9ec9f2907bf3"
+  },
+  {
+    "id": "e7045e2a-97df-5b02-84e4-045ffcb05605",
+    "song_name": "Precious",
+    "artist_id": "69468d05-a32b-5bd3-86da-11d14d9a38a0",
+    "artist_name": "Esperanza Spalding",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 81,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.562,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "9e1c91e8-03ed-439b-a343-b53244ad60cf",
+    "musicbrainz_release_mbid": "2ca906ab-42c6-4742-946d-1f85da952504"
+  },
+  {
+    "id": "732bebee-83c6-557a-8fab-bde03678dae0",
+    "song_name": "Fall in Love",
+    "artist_id": "2f12490d-9be3-5858-b602-acb466cdb014",
+    "artist_name": "BADBADNOTGOOD",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 77,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.565,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "5d81050a-20ae-4182-b28e-893cb5ba92fa",
+    "musicbrainz_release_mbid": "f35fafbd-e4c4-4c87-ba54-ebc9b84c46f0"
+  },
+  {
+    "id": "2335b242-dad8-51f7-824e-af2a8c9c2107",
+    "song_name": "Inner Game",
+    "artist_id": "4c3bc796-eaed-5822-996c-8c1349e22236",
+    "artist_name": "Nubya Garcia",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 41,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.231,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "644cf943-afa7-45e4-b632-70d8b3d240bc",
+    "musicbrainz_release_mbid": "315887d2-f0bb-4cf2-a654-e1ae044d8b9d"
+  },
+  {
+    "id": "ddb14c17-ec9f-5a94-bc3f-3bd3addefc82",
+    "song_name": "Pace",
+    "artist_id": "4c3bc796-eaed-5822-996c-8c1349e22236",
+    "artist_name": "Nubya Garcia",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 41,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.234,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "bb83527d-ede9-4c0f-8e1a-b0120b2fa7d5",
+    "musicbrainz_release_mbid": "315887d2-f0bb-4cf2-a654-e1ae044d8b9d"
+  },
+  {
+    "id": "fe90a6b9-e162-5200-a42b-8b7a6c607c0f",
+    "song_name": "Once",
+    "artist_id": "4c3bc796-eaed-5822-996c-8c1349e22236",
+    "artist_name": "Nubya Garcia",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 32,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.596,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d144343a-8602-42d4-9cd1-1c7d2d2dc720",
+    "musicbrainz_release_mbid": "987e409b-8953-4e71-9135-a886969f63ce"
+  },
+  {
+    "id": "662795a1-9bd2-5d6c-9751-f11742786303",
+    "song_name": "You’re Stronger Than You Think (revisit)",
+    "artist_id": "bdaeab1b-919c-5114-b431-5a444272e7cf",
+    "artist_name": "GoGo Penguin",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 67,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.309,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4e5e79c6-7672-46d6-8958-f89b7b02a249",
+    "musicbrainz_release_mbid": "576af9bc-dcf2-4fda-aa04-edea3ce68134"
+  },
+  {
+    "id": "798cc9bc-417a-5bf1-b3d2-c43a47245372",
+    "song_name": "You’re Stronger Than You Think",
+    "artist_id": "bdaeab1b-919c-5114-b431-5a444272e7cf",
+    "artist_name": "GoGo Penguin",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 67,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.313,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3ff05680-7e24-4094-96db-409b9a8e3c33",
+    "musicbrainz_release_mbid": "576af9bc-dcf2-4fda-aa04-edea3ce68134"
+  },
+  {
+    "id": "ec3eb5c8-fb93-5802-871f-80e1a1ab90bc",
+    "song_name": "Glow",
+    "artist_id": "bdaeab1b-919c-5114-b431-5a444272e7cf",
+    "artist_name": "GoGo Penguin",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 68,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.316,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "71c84139-3082-4685-bd5c-e22d64ad48bd",
+    "musicbrainz_release_mbid": "576af9bc-dcf2-4fda-aa04-edea3ce68134"
+  },
+  {
+    "id": "e3136f24-b273-519f-af0b-6a7751f8bea7",
+    "song_name": "Lil' Guardsman Main Theme",
+    "artist_id": "ddb6d622-2d53-5b75-997b-d3c0d997195c",
+    "artist_name": "Christian Scott",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 51,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.319,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6397e8b7-a876-4782-be7f-e7598731fa8c",
+    "musicbrainz_release_mbid": "d12e8abf-071e-4c7f-8fbd-19a49850a182"
+  },
+  {
+    "id": "7760db71-cdf7-5047-8d85-6888814fa066",
+    "song_name": "Jester Malcolm's Theme / Welcome to the Dungeon",
+    "artist_id": "ddb6d622-2d53-5b75-997b-d3c0d997195c",
+    "artist_name": "Christian Scott",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 51,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.323,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "491a692c-5c86-4058-8db9-937cb17d03fb",
+    "musicbrainz_release_mbid": "d12e8abf-071e-4c7f-8fbd-19a49850a182"
+  },
+  {
+    "id": "a93bf1d8-c892-5914-9d7b-b889b0a94094",
+    "song_name": "Ghost",
+    "artist_id": "7169ac74-0618-5b09-b2fc-3bef5f9066bd",
+    "artist_name": "Snail Mail",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 34,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.873,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "967efe42-bbf0-4c3e-803a-8a8caa89bc6d",
+    "musicbrainz_release_mbid": "42c941c9-1256-4132-9154-ab87c1e87085"
+  },
+  {
+    "id": "5e7b4582-9bff-52ab-b213-656bfaf22509",
+    "song_name": "Anytime",
+    "artist_id": "7169ac74-0618-5b09-b2fc-3bef5f9066bd",
+    "artist_name": "Snail Mail",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 58,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.692,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0c832b6c-3b27-4dd3-aaf5-9f035c98e967",
+    "musicbrainz_release_mbid": "1ca103e0-ddca-4d71-8c7e-1edab93c7fd1"
+  },
+  {
+    "id": "d24769e5-90b9-51c9-87ec-d488e666fd83",
+    "song_name": "Chelsea",
+    "artist_id": "80bd941c-0932-579f-b96b-7286ab578db9",
+    "artist_name": "Phoebe Bridgers",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 58,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.695,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b6a9d239-99a8-431f-be14-54b4b025e307",
+    "musicbrainz_release_mbid": "276e1cfc-8800-40fc-ab65-1274a094f6e2"
+  },
+  {
+    "id": "173a1e06-05e1-54b8-8fef-7fe838a99003",
+    "song_name": "kyoto (voice memo)",
+    "artist_id": "80bd941c-0932-579f-b96b-7286ab578db9",
+    "artist_name": "Phoebe Bridgers",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 70,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.699,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "46065165-3b50-4728-a5c2-bdb989ac7997",
+    "musicbrainz_release_mbid": "f6e74120-9d50-46e3-9072-ceed0e9c2e2c"
+  },
+  {
+    "id": "d8a5c3d6-5865-5a42-84be-c03237fe7f8d",
+    "song_name": "garden song (voice memo)",
+    "artist_id": "80bd941c-0932-579f-b96b-7286ab578db9",
+    "artist_name": "Phoebe Bridgers",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 70,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.702,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a50afcf5-e238-402d-8655-375ff364aaaf",
+    "musicbrainz_release_mbid": "f6e74120-9d50-46e3-9072-ceed0e9c2e2c"
+  },
+  {
+    "id": "fb990c33-219d-57a6-b4d9-7bdea8b245a8",
+    "song_name": "The Trapeze Swinger",
+    "artist_id": "6f6dfc2e-9f4d-59e1-9a77-6005616bb1d0",
+    "artist_name": "Iron & Wine",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 78,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.808,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3f94508e-5b8f-4696-96f6-473fd477e770",
+    "musicbrainz_release_mbid": "37a43a9d-e1b6-4f2d-8c2e-a7a01bc242bb"
+  },
+  {
+    "id": "06f6668b-4e2b-5ee2-9c82-d7d3cdd3a44b",
+    "song_name": "Upward Over the Mountain",
+    "artist_id": "6f6dfc2e-9f4d-59e1-9a77-6005616bb1d0",
+    "artist_name": "Iron & Wine",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 64,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.729,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "eabbc091-61f4-4cb3-bfb3-86f0d21bb1f2",
+    "musicbrainz_release_mbid": "37a43a9d-e1b6-4f2d-8c2e-a7a01bc242bb"
+  },
+  {
+    "id": "b375c7a8-de70-53f1-87ed-d3b8686db36b",
+    "song_name": "Sister",
+    "artist_id": "4e0543eb-2cd8-596a-a0fa-341e63f63373",
+    "artist_name": "Sufjan Stevens",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 82,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.811,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "f09ba4d5-eba4-4d57-a431-8bfbdc95c128",
+    "musicbrainz_release_mbid": "b3d87212-5af9-3892-91d6-e595cab0dadc"
+  },
+  {
+    "id": "b4c5709e-5926-54a7-9bd0-230dd5c66423",
+    "song_name": "Where Do My Bluebird Fly",
+    "artist_id": "9675db3a-bd56-546e-a935-016178d548aa",
+    "artist_name": "The Tallest Man on Earth",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 68,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.815,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "e541cc26-871e-465b-9618-bb66d53c3335",
+    "musicbrainz_release_mbid": "b675e1a6-c20a-45f8-bc42-a1eab608e803"
+  },
+  {
+    "id": "762bd87b-74cf-5ed4-bb66-b96dec0bebb8",
+    "song_name": "Steal Tomorrow",
+    "artist_id": "9675db3a-bd56-546e-a935-016178d548aa",
+    "artist_name": "The Tallest Man on Earth",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 41,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.818,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "93e903c0-9602-4484-8f1e-df3a98612056",
+    "musicbrainz_release_mbid": "e030e00a-094b-47f4-a76b-86370248679c"
+  },
+  {
+    "id": "f6f82466-1b2e-5f5a-9394-51c979671693",
+    "song_name": "Shallow Grave",
+    "artist_id": "9675db3a-bd56-546e-a935-016178d548aa",
+    "artist_name": "The Tallest Man on Earth",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 49,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.822,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a9364aad-360c-4cdd-a05d-ee5bffb24bd1",
+    "musicbrainz_release_mbid": "b675e1a6-c20a-45f8-bc42-a1eab608e803"
+  },
+  {
+    "id": "fabb29e3-4448-5a9b-b898-dcf35e201ce2",
+    "song_name": "Cycling Trivialities",
+    "artist_id": "3c3c4f3a-b29d-5041-8168-b771a5c694f3",
+    "artist_name": "José González",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 17,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.705,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ccda62fc-7b83-4237-9ee6-e92b16d3559e",
+    "musicbrainz_release_mbid": "4ad3aa6f-1899-495d-a82f-a1310d326b43"
+  },
+  {
+    "id": "4882e604-ea81-54af-aa69-b5768f7905ff",
+    "song_name": "Heartbeats",
+    "artist_id": "3c3c4f3a-b29d-5041-8168-b771a5c694f3",
+    "artist_name": "José González",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 18,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.733,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "57b203f3-1a73-4585-adfa-4f68700aedfc",
+    "musicbrainz_release_mbid": "4ad3aa6f-1899-495d-a82f-a1310d326b43"
+  },
+  {
+    "id": "445afd18-f815-58d0-b6ee-dd3452374c82",
+    "song_name": "Interview",
+    "artist_id": "3c3c4f3a-b29d-5041-8168-b771a5c694f3",
+    "artist_name": "José González",
+    "genre": "folk",
+    "mood": [
+      "warm",
+      "introspective"
+    ],
+    "popularity": 18,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.736,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b5d920df-f41a-41c9-8b2b-b8f29ccf3ea8",
+    "musicbrainz_release_mbid": "4ad3aa6f-1899-495d-a82f-a1310d326b43"
+  },
+  {
+    "id": "d1f94d82-954f-5e31-a0e5-9039c90bf071",
+    "song_name": "My Style",
+    "artist_id": "6df1f880-7858-5469-9fa4-191e2319e3c3",
+    "artist_name": "J Dilla",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 24,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.237,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "da670367-4293-45dc-89c1-92fead12be4c",
+    "musicbrainz_release_mbid": "bb99f183-7562-441e-a685-1a7cdec805fd"
+  },
+  {
+    "id": "13687dd6-01f0-5131-9b2f-0a60d76ddf1a",
+    "song_name": "Respect It",
+    "artist_id": "6df1f880-7858-5469-9fa4-191e2319e3c3",
+    "artist_name": "J Dilla",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 24,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.241,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "acf49ada-5146-4ef7-b2a9-2fbe82683cae",
+    "musicbrainz_release_mbid": "bb99f183-7562-441e-a685-1a7cdec805fd"
+  },
+  {
+    "id": "c8c9b75f-c687-557e-9275-6f2db8bf4fa6",
+    "song_name": "Fight Club",
+    "artist_id": "6df1f880-7858-5469-9fa4-191e2319e3c3",
+    "artist_name": "J Dilla",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 12,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.473,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ea074b21-921c-4c79-aead-3d04da897037",
+    "musicbrainz_release_mbid": "7c5e4ff2-aa65-4b82-a7ca-85b6869028f6"
+  },
+  {
+    "id": "0394e7b5-297b-59e8-9e8a-a2f2f9ec9c25",
+    "song_name": "Bnsb",
+    "artist_id": "91202708-639b-574a-bb30-42d66699fdbd",
+    "artist_name": "eevee",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 19,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.477,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "61795859-45de-421c-a4a9-96826d9c519c",
+    "musicbrainz_release_mbid": "7e3f7798-3127-4bab-953a-99c9729d7bb2"
+  },
+  {
+    "id": "f46dae4e-8145-5384-9239-62c3c50efdab",
+    "song_name": "Saturday Night",
+    "artist_id": "91202708-639b-574a-bb30-42d66699fdbd",
+    "artist_name": "eevee",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 19,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.244,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "59c41e1f-c30a-4536-9b5e-819e36556cce",
+    "musicbrainz_release_mbid": "7e3f7798-3127-4bab-953a-99c9729d7bb2"
+  },
+  {
+    "id": "cc886568-390e-592f-ac35-7787a188ca1b",
+    "song_name": "Anarchic Cause",
+    "artist_id": "91202708-639b-574a-bb30-42d66699fdbd",
+    "artist_name": "eevee",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 10,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.48,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ec803433-aba4-4ec5-ab45-1644709d3996",
+    "musicbrainz_release_mbid": "4805be2e-1fd1-4a49-b034-87f4399176d3"
+  },
+  {
+    "id": "d2235792-5d5f-5d25-a4f2-b9ce819c608c",
+    "song_name": "The Dream",
+    "artist_id": "b65babe3-a918-56d2-bbc8-93eadfc00a9e",
+    "artist_name": "SwuM",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 55,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.248,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3a6fbed7-d2b9-42e5-b014-6525c3fac013",
+    "musicbrainz_release_mbid": "cefacea7-1fda-4efa-88c3-2a4c1262640a"
+  },
+  {
+    "id": "095ce837-ddb3-5531-9314-078b017c7187",
+    "song_name": "knockin",
+    "artist_id": "b65babe3-a918-56d2-bbc8-93eadfc00a9e",
+    "artist_name": "SwuM",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 68,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.398,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "55970c72-9b02-42f1-a65d-be69725e2db4",
+    "musicbrainz_release_mbid": "b8294abd-c340-4354-b83a-3aa84a691374"
+  },
+  {
+    "id": "0da77b32-b61a-5fbe-95ea-53dd546e36da",
+    "song_name": "Corner Store",
+    "artist_id": "b65babe3-a918-56d2-bbc8-93eadfc00a9e",
+    "artist_name": "SwuM",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 81,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.401,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4ddfba9d-a604-40ec-99c0-d8b3002462da",
+    "musicbrainz_release_mbid": "a105b407-5b4a-47b2-aeac-eae2de73e605"
+  },
+  {
+    "id": "c1558e4e-30d7-52bc-bc90-08aab0a2f57e",
+    "song_name": "Velvet",
+    "artist_id": "2f12490d-9be3-5858-b602-acb466cdb014",
+    "artist_name": "BADBADNOTGOOD",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 23,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.251,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "eb305165-0e22-4657-b86b-6536de17af27",
+    "musicbrainz_release_mbid": "cb8c9462-7373-4098-a185-0c264ce7fdfa"
+  },
+  {
+    "id": "7b1410a4-79ac-5c5a-85b2-7962a050da34",
+    "song_name": "Eyes Closed",
+    "artist_id": "2f12490d-9be3-5858-b602-acb466cdb014",
+    "artist_name": "BADBADNOTGOOD",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 23,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.254,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "23c5517b-7ed6-4987-b10d-41794eeaa674",
+    "musicbrainz_release_mbid": "4a681db6-3146-4166-b997-6db77bf796dc"
+  },
+  {
+    "id": "07f1f045-f3e1-532d-aa19-a1e2260bb4ae",
+    "song_name": "Smooth Operator",
+    "artist_id": "a8a132d3-2345-540d-afa4-78318e175c58",
+    "artist_name": "Kendrick Lamar",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 78,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.258,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a48c1139-3963-49c0-a705-3ca6ba7dfe4d",
+    "musicbrainz_release_mbid": "694bab05-87e8-4a65-bc7d-34586ad188e2"
+  },
+  {
+    "id": "35ee4f7f-8891-5f51-9779-026ee39f2537",
+    "song_name": "Barbed Wire",
+    "artist_id": "a8a132d3-2345-540d-afa4-78318e175c58",
+    "artist_name": "Kendrick Lamar",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 78,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.261,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "aa596750-494e-4d7a-a841-f3e1421185d3",
+    "musicbrainz_release_mbid": "694bab05-87e8-4a65-bc7d-34586ad188e2"
+  },
+  {
+    "id": "7927f2e9-2d22-52e5-a99d-e079cdef537f",
+    "song_name": "Ignorance Is Bliss",
+    "artist_id": "a8a132d3-2345-540d-afa4-78318e175c58",
+    "artist_name": "Kendrick Lamar",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 79,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.265,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "5289bee1-533f-4b88-820b-4a2067821ac1",
+    "musicbrainz_release_mbid": "694bab05-87e8-4a65-bc7d-34586ad188e2"
+  },
+  {
+    "id": "b96a52c8-d60d-55fa-958e-2a8d91c8a48d",
+    "song_name": "Bastard",
+    "artist_id": "13f56373-459a-5157-ab3e-d3909b3d8706",
+    "artist_name": "Tyler, The Creator",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 59,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.483,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c9ba3759-fb31-4b4c-87e3-47a31f16719e",
+    "musicbrainz_release_mbid": "f92d68fa-db21-4938-b72d-bfe05256e13f"
+  },
+  {
+    "id": "e26e415e-b591-52f8-8345-29c7f8acf5ae",
+    "song_name": "Splatter",
+    "artist_id": "13f56373-459a-5157-ab3e-d3909b3d8706",
+    "artist_name": "Tyler, The Creator",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 15,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.487,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3f558c4c-5eae-4b19-9d93-d8f8a306d372",
+    "musicbrainz_release_mbid": "212e6848-edc8-4dce-95f3-15a6410a9e73"
+  },
+  {
+    "id": "2d96fb5c-3026-55bd-8d87-618b7b0959f0",
+    "song_name": "Blow",
+    "artist_id": "13f56373-459a-5157-ab3e-d3909b3d8706",
+    "artist_name": "Tyler, The Creator",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 34,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.627,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "adc8637f-fdee-4f8b-b540-5c690519795d",
+    "musicbrainz_release_mbid": "f92d68fa-db21-4938-b72d-bfe05256e13f"
+  },
+  {
+    "id": "beb5b483-07a4-560b-aa8b-019f70908fee",
+    "song_name": "Song 32",
+    "artist_id": "b31bc680-7b4d-53cf-b32d-97ac2ec4a073",
+    "artist_name": "Noname",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 32,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.6,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "1e785f72-836b-46bb-b821-474716e3c2fc",
+    "musicbrainz_release_mbid": "4b2b9298-3a23-4d86-bc9c-da09f326de2a"
+  },
+  {
+    "id": "1046da97-3946-5498-ba5f-628050660977",
+    "song_name": "[silence]",
+    "artist_id": "92c4b944-89ad-54dc-9855-ec00279ccbe2",
+    "artist_name": "Solange",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 9,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.49,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "74e5a8b0-eeb4-4a89-bf9a-8ea47989ee6d",
+    "musicbrainz_release_mbid": "a7e93156-d6a0-49ea-aafc-b8acaf7b7fd0"
+  },
+  {
+    "id": "19ea81bd-c3e4-53e1-a434-19caed2ce552",
+    "song_name": "Feelin’ You (Chopped and Screwed remix)",
+    "artist_id": "92c4b944-89ad-54dc-9855-ec00279ccbe2",
+    "artist_name": "Solange",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 10,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.494,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "41218fe2-17e7-4ba8-81e6-9b267e0b2002",
+    "musicbrainz_release_mbid": "a7e93156-d6a0-49ea-aafc-b8acaf7b7fd0"
+  },
+  {
+    "id": "b6a35768-1c04-5765-996b-9477b0240f31",
+    "song_name": "Tiny Desk (Home) Concert",
+    "artist_id": "435d6e9b-80d4-56bb-b378-b1cbf00c586a",
+    "artist_name": "Moses Sumney",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 27,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.603,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0f16449a-c3b9-480f-aa46-da0db4876ce8"
+  },
+  {
+    "id": "6f63e45f-8c44-5d7c-8532-bb0a05ad2151",
+    "song_name": "Cut Me",
+    "artist_id": "435d6e9b-80d4-56bb-b378-b1cbf00c586a",
+    "artist_name": "Moses Sumney",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 28,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.606,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3ba71fcb-a76a-4d42-b508-4e66bec9b06c"
+  },
+  {
+    "id": "d1318714-5a7e-5784-8580-e9d015c3ed15",
+    "song_name": "Cut Me",
+    "artist_id": "435d6e9b-80d4-56bb-b378-b1cbf00c586a",
+    "artist_name": "Moses Sumney",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 42,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.268,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "06e9a658-5a2f-44b9-8a65-b32a05cfd20e",
+    "musicbrainz_release_mbid": "fbf7d98b-d844-495d-aa71-77f7f575e76b"
+  },
+  {
+    "id": "142f1ed5-63fc-5ad8-b8cd-61942a7e9e86",
+    "song_name": "Good News",
+    "artist_id": "723961e4-d425-515c-a055-fbdaab22678f",
+    "artist_name": "Jamila Woods",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 51,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.405,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "302a62b5-a446-40ae-ab90-15d78d7c0990",
+    "musicbrainz_release_mbid": "7e6c7042-6645-48cf-9111-1ece5e5ff2d2"
+  },
+  {
+    "id": "c7eed83d-b6aa-5cea-9bf1-ec3650ca1657",
+    "song_name": "Good News",
+    "artist_id": "723961e4-d425-515c-a055-fbdaab22678f",
+    "artist_name": "Jamila Woods",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 52,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.408,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c8759334-53c3-41b7-b439-387b0fbe72f6",
+    "musicbrainz_release_mbid": "67aa0bf2-5241-4c8d-b984-5a00c9e84950"
+  },
+  {
+    "id": "f2406a94-5aae-5463-9a24-7e3f16aaccb0",
+    "song_name": "ZORA (LIVE)",
+    "artist_id": "723961e4-d425-515c-a055-fbdaab22678f",
+    "artist_name": "Jamila Woods",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 37,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.61,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "40b32104-5411-41f8-a5cd-59e1e00560fa",
+    "musicbrainz_release_mbid": "4f3b75c0-ad2d-4a38-a593-f7742c036a45"
+  },
+  {
+    "id": "37167fa7-256e-57ed-88fe-1f5c0a7ebce3",
+    "song_name": "Do You Like Me?",
+    "artist_id": "a9a262d8-9fa0-5ecc-97a6-e700d813c55c",
+    "artist_name": "Daniel Caesar",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 69,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.412,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a7e741cf-08d6-48e5-9b2c-8b96c5e5d4d3",
+    "musicbrainz_release_mbid": "80b66efb-c07b-4502-a7a3-f805a81286e5"
+  },
+  {
+    "id": "685ca0a4-2262-5276-b20c-6346d371e7a2",
+    "song_name": "Blessed",
+    "artist_id": "a9a262d8-9fa0-5ecc-97a6-e700d813c55c",
+    "artist_name": "Daniel Caesar",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 42,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.272,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "571e376a-42e0-42fc-b834-27378be408a8",
+    "musicbrainz_release_mbid": "ab3aa623-7646-404f-b564-cc7af01fffe8"
+  },
+  {
+    "id": "6bd66267-a89a-5aef-b1e7-00c4effd0e67",
+    "song_name": "Violet",
+    "artist_id": "a9a262d8-9fa0-5ecc-97a6-e700d813c55c",
+    "artist_name": "Daniel Caesar",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 28,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.613,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "eb4e5b30-4b4d-4208-b349-888be05c05b9",
+    "musicbrainz_release_mbid": "42d16010-bc54-4f49-a4d4-4cfc0d9bfa28"
+  },
+  {
+    "id": "8cb5e597-6012-53f8-9cfc-c30c4c8bc090",
+    "song_name": "The Office",
+    "artist_id": "091a810f-ee18-544f-b7a1-9969ad972fa4",
+    "artist_name": "H.E.R.",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 25,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.617,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b5335773-9cc6-47f6-a689-f92ea1eb1871",
+    "musicbrainz_release_mbid": "e46b6559-2a54-48af-98d1-bd07bdcc87be"
+  },
+  {
+    "id": "3842e51b-b634-527c-b8be-1a922d674ab6",
+    "song_name": "The Migration Is Over",
+    "artist_id": "091a810f-ee18-544f-b7a1-9969ad972fa4",
+    "artist_name": "H.E.R.",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 25,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.62,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "64fb41fe-fe31-4340-8e1d-6c903d85d681",
+    "musicbrainz_release_mbid": "e46b6559-2a54-48af-98d1-bd07bdcc87be"
+  },
+  {
+    "id": "9f3c05c4-06d4-5a87-8a96-e89dc9994741",
+    "song_name": "Ooh Gary Gary",
+    "artist_id": "091a810f-ee18-544f-b7a1-9969ad972fa4",
+    "artist_name": "H.E.R.",
+    "genre": "r-n-b",
+    "mood": [
+      "smooth",
+      "soulful"
+    ],
+    "popularity": 19,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.275,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "e394eed9-39a9-4b84-bf77-2a24976dc5fa",
+    "musicbrainz_release_mbid": "4cb7203a-4840-4315-a677-9b80370bc777"
+  },
+  {
+    "id": "e5fc4654-0802-5ae4-bcc8-02c15366cc0a",
+    "song_name": "She’s an Actress",
+    "artist_id": "8171ec87-4cc0-5708-9350-6cf9bb5fe81d",
+    "artist_name": "Wallows",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 69,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.415,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0dbebd78-7819-4746-bf4c-e59d69b10592",
+    "musicbrainz_release_mbid": "dd308e13-28cd-4a29-ad6b-05fa4f79a00e"
+  },
+  {
+    "id": "576f60a7-dc01-5e58-b431-8a72d2a9d6b5",
+    "song_name": "Especially You",
+    "artist_id": "8171ec87-4cc0-5708-9350-6cf9bb5fe81d",
+    "artist_name": "Wallows",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 52,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.418,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "8a045c56-a4c9-4a03-919a-0c7a8cf7bf6b",
+    "musicbrainz_release_mbid": "7e9ac459-d5bd-4586-ae39-1a2c2071c167"
+  },
+  {
+    "id": "6f7e2376-4535-52b5-8863-2c06d31e7e3d",
+    "song_name": "Marvelous",
+    "artist_id": "8171ec87-4cc0-5708-9350-6cf9bb5fe81d",
+    "artist_name": "Wallows",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 53,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.422,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3b7d77e7-8bd4-4c83-8f28-6c6fb7c203ec",
+    "musicbrainz_release_mbid": "d995b2a0-df51-490d-9b1d-9ae52d8eaceb"
+  },
+  {
+    "id": "f2c0dae5-a83f-5aef-918f-799399c62816",
+    "song_name": "Idioteque",
+    "artist_id": "9fd0ee6f-68d7-5037-9dc5-591c103ab7e4",
+    "artist_name": "Radiohead",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 91,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.497,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "62493736-f76c-472c-ac11-81831891d949",
+    "musicbrainz_release_mbid": "9adc6573-ec5f-4211-a40c-b611a46c5545"
+  },
+  {
+    "id": "a7d2915e-31ca-5508-9385-4b1006843d4a",
+    "song_name": "The National Anthem",
+    "artist_id": "9fd0ee6f-68d7-5037-9dc5-591c103ab7e4",
+    "artist_name": "Radiohead",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 56,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.278,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "de1650ac-dcd9-4477-9aed-d2a49c9ad4ca",
+    "musicbrainz_release_mbid": "6e9db3e3-230b-41b8-a5bd-d2f86ed31b51"
+  },
+  {
+    "id": "f64bf41b-c9d4-5f39-9d20-7688a501088e",
+    "song_name": "Optimistic",
+    "artist_id": "9fd0ee6f-68d7-5037-9dc5-591c103ab7e4",
+    "artist_name": "Radiohead",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 56,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.282,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4cbe26ce-3377-42f5-95fb-7640cae1cb49",
+    "musicbrainz_release_mbid": "6e9db3e3-230b-41b8-a5bd-d2f86ed31b51"
+  },
+  {
+    "id": "863c5eb9-b42a-55b5-9586-7c888f065a26",
+    "song_name": "[jam/improv]",
+    "artist_id": "e8f57002-ef4b-5528-be13-a561039f64b2",
+    "artist_name": "black midi",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 47,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.285,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "5b7b0005-63c4-4ba5-98c3-eba869ea67da",
+    "musicbrainz_release_mbid": "a567dae1-7094-441d-8ecc-3b8bafe73a78"
+  },
+  {
+    "id": "8f2320fe-9ba6-55b5-8f3c-4a474d9d6bc5",
+    "song_name": "bmbmbm",
+    "artist_id": "e8f57002-ef4b-5528-be13-a561039f64b2",
+    "artist_name": "black midi",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 47,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.289,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d12cdb6b-f8e9-4529-a73f-fcfd26d1e709",
+    "musicbrainz_release_mbid": "a567dae1-7094-441d-8ecc-3b8bafe73a78"
+  },
+  {
+    "id": "ea289696-4d4f-55b9-ae5f-eed9e55f6cb0",
+    "song_name": "Hellfire",
+    "artist_id": "e8f57002-ef4b-5528-be13-a561039f64b2",
+    "artist_name": "black midi",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 59,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.425,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ce68eb65-ab9a-443b-a8e4-9bdb4e8c8d38",
+    "musicbrainz_release_mbid": "ffc2b9f9-89c7-497a-9e57-7056e4cc328f"
+  },
+  {
+    "id": "64578425-21aa-516c-83a3-a1e04b216773",
+    "song_name": "Meydei (Task & Bear vocal mix)",
+    "artist_id": "71980341-6677-5a24-bcb8-aa82fe9ccbd5",
+    "artist_name": "IDLES",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 20,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.326,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a64c1b94-32a7-422a-b891-560f2a2dde6d",
+    "musicbrainz_release_mbid": "b2ec38df-1eeb-45b0-9eed-e249b1ea2d66"
+  },
+  {
+    "id": "15e06289-eb13-542e-85c5-6df8c63d6f8e",
+    "song_name": "Well Done",
+    "artist_id": "71980341-6677-5a24-bcb8-aa82fe9ccbd5",
+    "artist_name": "IDLES",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 48,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.33,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "343207cf-ddf8-4f91-8cd6-6df603a2e966",
+    "musicbrainz_release_mbid": "aaf48090-8f92-4299-8984-cb8206919ebe"
+  },
+  {
+    "id": "a326528c-3a28-5e23-988a-4ca925ae5ac6",
+    "song_name": "Intro",
+    "artist_id": "71980341-6677-5a24-bcb8-aa82fe9ccbd5",
+    "artist_name": "IDLES",
+    "genre": "rock",
+    "mood": [
+      "energetic",
+      "raw"
+    ],
+    "popularity": 48,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.333,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c25eaa27-439a-4b32-9176-126a693d1f2f",
+    "musicbrainz_release_mbid": "aaf48090-8f92-4299-8984-cb8206919ebe"
+  },
+  {
+    "id": "e845d7a9-b7df-5b9d-8ea5-d76df4ccd7e1",
+    "song_name": "Under Stars",
+    "artist_id": "9cf7a2ae-92fa-52ec-9a42-e000e4b0b0cb",
+    "artist_name": "Brian Eno",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 43,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.74,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0b41a4c1-d789-4d10-b85d-caa9154299fc",
+    "musicbrainz_release_mbid": "39c2f7ff-2a4a-406a-bee5-46f539852ba4"
+  },
+  {
+    "id": "68900569-10ca-5de4-bcbc-fbe66e347dbc",
+    "song_name": "29 Septembre : Cold Jazz 2",
+    "artist_id": "9cf7a2ae-92fa-52ec-9a42-e000e4b0b0cb",
+    "artist_name": "Brian Eno",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 21,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.743,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "09460326-0be1-471c-bbcc-ad4ed6fbe1d1",
+    "musicbrainz_release_mbid": "28f9556c-bcff-4c78-b349-ed6b327ee067"
+  },
+  {
+    "id": "f67d1104-cdd3-589a-b56e-f6fd2b518576",
+    "song_name": "Surf Birds",
+    "artist_id": "9cf7a2ae-92fa-52ec-9a42-e000e4b0b0cb",
+    "artist_name": "Brian Eno",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 26,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.876,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "90cc24fc-3aa2-4e04-b4bc-924f47bb0610",
+    "musicbrainz_release_mbid": "9a10b0aa-2ee0-493a-bbc8-2b00d6237dfe"
+  },
+  {
+    "id": "6671ef4f-9af0-5e2a-9705-c93869c91ef7",
+    "song_name": "Sparkle and Fade",
+    "artist_id": "5620a6b4-d54a-5020-a845-a8c4212cf25b",
+    "artist_name": "Hammock",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 71,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.825,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "678bd60a-04e2-43e8-b11d-f18fb6380b9b",
+    "musicbrainz_release_mbid": "9f2cecb3-ca9a-4d29-8bcd-a692f32e2f11"
+  },
+  {
+    "id": "5b303a73-6dd1-594e-9d38-f551e3b40267",
+    "song_name": "Black Metallic",
+    "artist_id": "5620a6b4-d54a-5020-a845-a8c4212cf25b",
+    "artist_name": "Hammock",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 11,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.746,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3c8623a9-0e30-44b8-ad80-166933e52b0e",
+    "musicbrainz_release_mbid": "b5d207ba-46a6-41f1-bb24-36234c626659"
+  },
+  {
+    "id": "1a24f140-47ee-5bf5-b1f3-7e35c9697a71",
+    "song_name": "Raising Your Voice... Trying to Stop an Echo",
+    "artist_id": "5620a6b4-d54a-5020-a845-a8c4212cf25b",
+    "artist_name": "Hammock",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 12,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.75,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "f98eeaf6-13ae-4f3d-a0a7-26407e8d1bc4",
+    "musicbrainz_release_mbid": "11d77d69-22b0-46d1-a3a5-aa7891e24664"
+  },
+  {
+    "id": "ae451bbd-746a-584e-ac43-e50bcec61856",
+    "song_name": "Music for Twin Peaks Episode #30, Part II",
+    "artist_id": "c50671fc-6708-5a26-85bd-2bb58e8225a7",
+    "artist_name": "Stars of the Lid",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 59,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.828,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "8ffde36d-b2a0-438c-aedf-95970252d8c1",
+    "musicbrainz_release_mbid": "8d2edf1b-b49e-46cb-bb37-11c9783ab995"
+  },
+  {
+    "id": "f053e530-d98e-5258-bf7e-79d39e57bd0f",
+    "song_name": "Requiem for Dying Mothers (version i, Zamachowski op. 87)",
+    "artist_id": "c50671fc-6708-5a26-85bd-2bb58e8225a7",
+    "artist_name": "Stars of the Lid",
+    "genre": "ambient",
+    "mood": [
+      "dreamy",
+      "chill"
+    ],
+    "popularity": 11,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.753,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "db68fb4d-5607-4f5d-85c3-6551ecfa8187",
+    "musicbrainz_release_mbid": "542ce3da-58fb-4eb8-a1b4-8021e568eff8"
+  },
+  {
+    "id": "25c3eadd-6d31-5514-9497-a6ed567fd51f",
+    "song_name": "I Want You Around",
+    "artist_id": "f7e5b9ad-7b03-5824-afe2-2a4d847d8efb",
+    "artist_name": "Snoh Aalegra",
+    "genre": "soul",
+    "mood": [
+      "warm",
+      "soulful"
+    ],
+    "popularity": 43,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.336,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "420cf2ab-9e18-4760-b998-63252fee7ce0",
+    "musicbrainz_release_mbid": "4e8f91b2-ea37-4833-8453-dae1ceadf13b"
+  },
+  {
+    "id": "d163c9c4-74af-507b-88e2-3399f968f0d8",
+    "song_name": "Nothing to Me",
+    "artist_id": "f7e5b9ad-7b03-5824-afe2-2a4d847d8efb",
+    "artist_name": "Snoh Aalegra",
+    "genre": "soul",
+    "mood": [
+      "warm",
+      "soulful"
+    ],
+    "popularity": 43,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.34,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "712256d1-7944-4f57-9f4a-b2469c88228e",
+    "musicbrainz_release_mbid": "d55f70a8-cb80-4d42-8db3-485a3397f430"
+  },
+  {
+    "id": "8b6223a1-9c26-56c5-98f5-c163a68ae153",
+    "song_name": "Whoa",
+    "artist_id": "f7e5b9ad-7b03-5824-afe2-2a4d847d8efb",
+    "artist_name": "Snoh Aalegra",
+    "genre": "soul",
+    "mood": [
+      "warm",
+      "soulful"
+    ],
+    "popularity": 44,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.343,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6581fb8d-e2d2-491f-b0a7-15f4ac0d9ef3",
+    "musicbrainz_release_mbid": "d55f70a8-cb80-4d42-8db3-485a3397f430"
+  },
+  {
+    "id": "137e23a1-fa83-512a-aa18-1b55e9c3226c",
+    "song_name": "Siamese Twins",
+    "artist_id": "4e0543eb-2cd8-596a-a0fa-341e63f63373",
+    "artist_name": "Sufjan Stevens",
+    "genre": "pop",
+    "mood": [
+      "upbeat",
+      "catchy"
+    ],
+    "popularity": 81,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.5,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6fdcdece-9980-4141-877c-36b1ce0a6d56",
+    "musicbrainz_release_mbid": "0742d65b-a013-40f9-a5dd-7b3b8649b527"
+  },
+  {
+    "id": "073e8091-9d0f-562f-8cde-5f377b549b95",
+    "song_name": "Nights (Adieu flip)",
+    "artist_id": "f9333086-af2b-5e24-9b0a-746d7efa2e6f",
+    "artist_name": "Frank Ocean",
+    "genre": "pop",
+    "mood": [
+      "upbeat",
+      "catchy"
+    ],
+    "popularity": 65,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.429,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0e0d54c4-be82-4460-bd49-9a1802915211",
+    "musicbrainz_release_mbid": "9612430b-120c-4a5c-953d-20f49a85d795"
+  },
+  {
+    "id": "a0908681-a000-5445-9d5f-0d7fb06d7558",
+    "song_name": "Come On World, You Can't Go!",
+    "artist_id": "f9333086-af2b-5e24-9b0a-746d7efa2e6f",
+    "artist_name": "Frank Ocean",
+    "genre": "pop",
+    "mood": [
+      "upbeat",
+      "catchy"
+    ],
+    "popularity": 35,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.623,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "2e8d8685-85b5-41d7-90cd-96c9866e8442"
+  },
+  {
+    "id": "1d05b36e-323c-54e7-9939-6e5e5cb6acb6",
+    "song_name": "Thinkin’ About You (remixed by Shag)",
+    "artist_id": "f9333086-af2b-5e24-9b0a-746d7efa2e6f",
+    "artist_name": "Frank Ocean",
+    "genre": "pop",
+    "mood": [
+      "upbeat",
+      "catchy"
+    ],
+    "popularity": 22,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.347,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "dc884d61-64df-4ae6-8953-4324a034661a",
+    "musicbrainz_release_mbid": "5c8304ff-4679-4aed-b899-a2f4484d878b"
+  },
+  {
+    "id": "a877a762-3c6b-5e6b-bc9e-d40d0bb269cc",
+    "song_name": "NO.SLEEP - Mix.05",
+    "artist_id": "0d738236-5788-55c5-864b-d2bdd2fab92a",
+    "artist_name": "ODESZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 26,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.63,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "1af7a202-35bc-4748-b6f1-aa2ff5ac6966",
+    "musicbrainz_release_mbid": "c8c0548b-2211-43fa-aeb4-e4dfa3590e0d"
+  },
+  {
+    "id": "d5e15c8f-290a-55dd-a9a7-3c2cd60a691f",
+    "song_name": "Desert Night (Live from Joshua Tree)",
+    "artist_id": "66450414-eb1e-5fb8-9f06-aef167be3b08",
+    "artist_name": "RÜFÜS DU SOL",
+    "genre": "world",
+    "mood": [
+      "hypnotic",
+      "warm"
+    ],
+    "popularity": 86,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.35,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "7b4e2b5a-b31b-40e5-b33a-6f4a176410fd",
+    "musicbrainz_release_mbid": "e4da7bef-ab65-4aee-be58-d7099baef8f1"
+  },
+  {
+    "id": "dfd46ab2-f80a-58be-871b-2205b09da9a6",
+    "song_name": "No Place (Live from Joshua Tree)",
+    "artist_id": "66450414-eb1e-5fb8-9f06-aef167be3b08",
+    "artist_name": "RÜFÜS DU SOL",
+    "genre": "latin",
+    "mood": [
+      "energetic",
+      "groovy"
+    ],
+    "popularity": 87,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.354,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "1d049af3-8d36-490f-bdd1-f409f0547cb1",
+    "musicbrainz_release_mbid": "e4da7bef-ab65-4aee-be58-d7099baef8f1"
+  },
+  {
+    "id": "7d4b8719-b457-5a79-a10c-2112f24b8cbc",
+    "song_name": "New Sky (Live from Joshua Tree)",
+    "artist_id": "66450414-eb1e-5fb8-9f06-aef167be3b08",
+    "artist_name": "RÜFÜS DU SOL",
+    "genre": "world",
+    "mood": [
+      "hypnotic",
+      "warm"
+    ],
+    "popularity": 87,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.357,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b426e4ac-72a3-48f5-a95d-ecc7b2b235d9",
+    "musicbrainz_release_mbid": "e4da7bef-ab65-4aee-be58-d7099baef8f1"
+  },
+  {
+    "id": "ccb9f16f-097d-5ae6-b617-dc9e1c6b361a",
+    "song_name": "One Final Party",
+    "artist_id": "0c85bbf8-eb75-5f04-9056-a767deab4024",
+    "artist_name": "Disclosure",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 71,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.36,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "796b2776-86f2-4791-9b59-7e7632ce5501",
+    "musicbrainz_release_mbid": "2b78a56d-7971-40eb-895c-9381edb80278"
+  },
+  {
+    "id": "08a8b6e0-b138-597d-a144-5a5240fb2b13",
+    "song_name": "Upper Echelon",
+    "artist_id": "0c85bbf8-eb75-5f04-9056-a767deab4024",
+    "artist_name": "Disclosure",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 65,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.364,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a96e72e0-a097-476e-bef4-e4c3e5414ba1",
+    "musicbrainz_release_mbid": "cdb156ff-3a79-4c90-a96e-cf2f95b474e9"
+  },
+  {
+    "id": "91e7f2fb-e2cc-5655-b0f4-f73f7a05a85f",
+    "song_name": "I Fear… It Will Not End Well for Us",
+    "artist_id": "0c85bbf8-eb75-5f04-9056-a767deab4024",
+    "artist_name": "Disclosure",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 72,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.367,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "3698a8b2-9939-4514-aac6-3e776950dc4b",
+    "musicbrainz_release_mbid": "2b78a56d-7971-40eb-895c-9381edb80278"
+  },
+  {
+    "id": "2bcacd81-d077-568f-80c0-48e2c33f391f",
+    "song_name": "cold door handles",
+    "artist_id": "393a4fed-70af-593f-abb1-725f60acae00",
+    "artist_name": "idealism",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 35,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.634,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "37441546-8375-4ae6-a130-d93dfd3e86f2",
+    "musicbrainz_release_mbid": "d4401bef-c674-467c-a95f-1e2feb89c40a"
+  },
+  {
+    "id": "d3d668e4-c063-5fcd-a59a-d4b7ba6eb50a",
+    "song_name": "neon lights",
+    "artist_id": "393a4fed-70af-593f-abb1-725f60acae00",
+    "artist_name": "idealism",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 35,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.637,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6d3382b7-fb57-4ae9-8e1a-4ec4a49777d4",
+    "musicbrainz_release_mbid": "d4401bef-c674-467c-a95f-1e2feb89c40a"
+  },
+  {
+    "id": "394a0a20-62f5-55b0-8ba7-b75b972b5098",
+    "song_name": "wings (one for jun)",
+    "artist_id": "393a4fed-70af-593f-abb1-725f60acae00",
+    "artist_name": "idealism",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 36,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.641,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b2071a06-da4f-4abc-9feb-0c9f10f6912d",
+    "musicbrainz_release_mbid": "d4401bef-c674-467c-a95f-1e2feb89c40a"
+  },
+  {
+    "id": "739db606-e838-509a-b7b6-0ea298b495a4",
+    "song_name": "Oooo",
+    "artist_id": "fe4833a4-d567-5295-be00-aad8b519e277",
+    "artist_name": "tomppabeats",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 37,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.644,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "41932581-1c3e-48b9-8b34-5d2dc2a22461",
+    "musicbrainz_release_mbid": "4179c1d0-22a7-41ea-8c5b-91d2011e98c9"
+  },
+  {
+    "id": "b691f3fb-b965-5589-ac87-dfed8783277a",
+    "song_name": "Charles Barkley",
+    "artist_id": "fe4833a4-d567-5295-be00-aad8b519e277",
+    "artist_name": "tomppabeats",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 60,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.371,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "9700f223-7ea4-4146-bb9d-a1dbef211ffc",
+    "musicbrainz_release_mbid": "3112fd56-92b6-4238-8bb5-ddf00e036463"
+  },
+  {
+    "id": "110ebfb7-f39f-5d0f-ba1d-c1143602958c",
+    "song_name": "HOGGINTHEGAME",
+    "artist_id": "fe4833a4-d567-5295-be00-aad8b519e277",
+    "artist_name": "tomppabeats",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 38,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.647,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d38b4632-7dbe-4f9f-ae09-2413a42b50e6",
+    "musicbrainz_release_mbid": "e51246b9-dde2-4c98-8967-1e5d09ce5ad8"
+  },
+  {
+    "id": "2b8423fb-8212-5b39-bc4b-0f671bcfbc6d",
+    "song_name": "Long Distance",
+    "artist_id": "f46a4e3f-9af3-50d4-9592-4da23950af5e",
+    "artist_name": "Kupla",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 75,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.432,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "79458478-77c2-48d3-bbaa-849c56e9b675",
+    "musicbrainz_release_mbid": "f2c49ec7-12ed-431c-8444-c12527efecfe"
+  },
+  {
+    "id": "8c21c63e-9568-5326-b217-f2170bdba468",
+    "song_name": "Grassroot Skies",
+    "artist_id": "f46a4e3f-9af3-50d4-9592-4da23950af5e",
+    "artist_name": "Kupla",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 50,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.374,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "56c8fdc4-7b2f-4ec6-a6f9-e2f450107983",
+    "musicbrainz_release_mbid": "bf2c07cf-d4fa-4867-876d-4a8e5c952937"
+  },
+  {
+    "id": "8be6a0e2-e838-5c44-b700-c6a036da9dfc",
+    "song_name": "Noir",
+    "artist_id": "f46a4e3f-9af3-50d4-9592-4da23950af5e",
+    "artist_name": "Kupla",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 75,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.436,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d512aa9f-104e-49c1-9a58-13328de9903c",
+    "musicbrainz_release_mbid": "d463c380-e9ea-46df-95c3-b8332ed97b4a"
+  },
+  {
+    "id": "9fca0aeb-c8dd-535a-b4c6-84807a1dae7c",
+    "song_name": "Love Movement",
+    "artist_id": "cbbad3c7-0c0f-5a02-b923-36352042a3c9",
+    "artist_name": "Aso",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 38,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.651,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a0105e1f-3eeb-4565-a478-6169684aac27",
+    "musicbrainz_release_mbid": "ceccef66-d365-4931-a496-16bd269ca9f1"
+  },
+  {
+    "id": "d533e8bc-d532-5cda-aa01-fb5b725c54d3",
+    "song_name": "Presence",
+    "artist_id": "cbbad3c7-0c0f-5a02-b923-36352042a3c9",
+    "artist_name": "Aso",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 38,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.654,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "51047358-ab41-4b73-83f6-4b8724ce4ff1",
+    "musicbrainz_release_mbid": "ceccef66-d365-4931-a496-16bd269ca9f1"
+  },
+  {
+    "id": "4e70c4f4-6c3d-598d-8c57-41e7d7624105",
+    "song_name": "As the Sun Goes Down (jazz outro)",
+    "artist_id": "cbbad3c7-0c0f-5a02-b923-36352042a3c9",
+    "artist_name": "Aso",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 39,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.658,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c9563de1-195d-4e68-b57e-ba131f3d58cc",
+    "musicbrainz_release_mbid": "ceccef66-d365-4931-a496-16bd269ca9f1"
+  },
+  {
+    "id": "b9959f3a-e8f4-5c5b-919e-6b7ffae8e02f",
+    "song_name": "Goodnight",
+    "artist_id": "ddb6d622-2d53-5b75-997b-d3c0d997195c",
+    "artist_name": "Christian Scott",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 53,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.439,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "90f081f8-aa46-40c1-807d-3b7452205f7b",
+    "musicbrainz_release_mbid": "d12e8abf-071e-4c7f-8fbd-19a49850a182"
+  },
+  {
+    "id": "c058a77f-c549-5bf8-9344-6e2b5c2b6789",
+    "song_name": "まだ癒えぬ痕",
+    "artist_id": "28177fb1-a60c-5039-8c20-b376368cb0d3",
+    "artist_name": "Hiromi",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 8,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.504,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "25965120-68ab-4024-b334-6c760431e331",
+    "musicbrainz_release_mbid": "0c92aca7-568d-4e90-a48a-790cf99e3439"
+  },
+  {
+    "id": "e34a947a-9591-5382-90a9-2ea725355654",
+    "song_name": "エースをねらえ!",
+    "artist_id": "28177fb1-a60c-5039-8c20-b376368cb0d3",
+    "artist_name": "Hiromi",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 9,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.507,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "be4b1d23-3db5-48b4-b8eb-895d7ff4fd62",
+    "musicbrainz_release_mbid": "0c2ac266-fcf3-483b-a186-c058689155e2"
+  },
+  {
+    "id": "6f5f6e23-0773-52b4-a245-d66195a49f81",
+    "song_name": "金のリボンでRockして",
+    "artist_id": "28177fb1-a60c-5039-8c20-b376368cb0d3",
+    "artist_name": "Hiromi",
+    "genre": "jazz",
+    "mood": [
+      "smooth",
+      "sophisticated"
+    ],
+    "popularity": 8,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.511,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "30c14b9a-12c1-4d24-9f5a-089d0492ea82",
+    "musicbrainz_release_mbid": "9963cb3e-e805-4aae-a8a6-4bf0cbf32171"
+  },
+  {
+    "id": "5009e938-e647-56bb-a148-7433f712ab58",
+    "song_name": "Skinny Love",
+    "artist_id": "6ed4c2ee-b3a2-5862-88ea-f82365a27057",
+    "artist_name": "Bon Iver",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 29,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.88,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "259afe6c-a50d-4ac9-89aa-c11825bb76bb",
+    "musicbrainz_release_mbid": "1494f710-6759-4cee-9e11-d97c44abcbe7"
+  },
+  {
+    "id": "cc7ed41f-be14-5aa8-b833-a7fd76e4caf9",
+    "song_name": "Blue Tulip",
+    "artist_id": "6ed4c2ee-b3a2-5862-88ea-f82365a27057",
+    "artist_name": "Bon Iver",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 29,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.883,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d2cb24f8-4a55-4bbd-999b-e73720731224",
+    "musicbrainz_release_mbid": "8a8fcd94-67aa-43bf-b06d-281df43441f2"
+  },
+  {
+    "id": "d9aa0ced-8e82-5a09-a071-3b0a50e282fc",
+    "song_name": "I Don't Wanna Lose Your Love Tonight",
+    "artist_id": "6ed4c2ee-b3a2-5862-88ea-f82365a27057",
+    "artist_name": "Bon Iver",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 30,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.887,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "cd2a401e-ef3a-4509-b3b9-eb5fd7242324",
+    "musicbrainz_release_mbid": "8a8fcd94-67aa-43bf-b06d-281df43441f2"
+  },
+  {
+    "id": "590e7ae7-075a-5d0e-b8e4-bbbca492b8ad",
+    "song_name": "Tiniest Lights",
+    "artist_id": "013ae7ef-8a8f-5629-94a5-29c8c1eeded1",
+    "artist_name": "Angel Olsen",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 49,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.757,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "566800c6-4c54-4781-b30f-5f6f3cb5b63a",
+    "musicbrainz_release_mbid": "fcbddaf6-b5ba-4d5e-bda2-37fcaba47a4e"
+  },
+  {
+    "id": "0cf75cea-7f54-5f79-9878-cd964fe728f0",
+    "song_name": "Some Things Cosmic",
+    "artist_id": "013ae7ef-8a8f-5629-94a5-29c8c1eeded1",
+    "artist_name": "Angel Olsen",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 49,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.76,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "22dcf1c7-4826-45e6-9496-b03e0a8212c8",
+    "musicbrainz_release_mbid": "fcbddaf6-b5ba-4d5e-bda2-37fcaba47a4e"
+  },
+  {
+    "id": "096fd915-37ab-540f-94bd-92732892c97d",
+    "song_name": "The First Hurt",
+    "artist_id": "013ae7ef-8a8f-5629-94a5-29c8c1eeded1",
+    "artist_name": "Angel Olsen",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 76,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.764,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "25956500-6ec4-4bba-ad8f-27d527958419",
+    "musicbrainz_release_mbid": "a379c7fc-133b-4502-9ad7-06d084fde937"
+  },
+  {
+    "id": "5b9bbab7-177d-5ec2-9bc6-cd65f7618d2f",
+    "song_name": "Love Vigilantes",
+    "artist_id": "6f6dfc2e-9f4d-59e1-9a77-6005616bb1d0",
+    "artist_name": "Iron & Wine",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 36,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.89,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a266e00d-bdbd-4268-8bd6-527b19eb52ad",
+    "musicbrainz_release_mbid": "bc1c14ce-5756-4f0c-998a-cedbe6a12963"
+  },
+  {
+    "id": "e0fc5eec-103b-5893-9143-c269c8cf4713",
+    "song_name": "For the Widows in Paradise, for the Fatherless in Ypsilanti",
+    "artist_id": "4e0543eb-2cd8-596a-a0fa-341e63f63373",
+    "artist_name": "Sufjan Stevens",
+    "genre": "latin",
+    "mood": [
+      "energetic",
+      "groovy"
+    ],
+    "popularity": 89,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.569,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "eea94bda-e867-422b-a768-accde0abb075",
+    "musicbrainz_release_mbid": "6c9ec0f3-466f-49f0-b616-2622b7e686e0"
+  },
+  {
+    "id": "2ef5c238-b19c-52ba-9133-46244d0fa5d2",
+    "song_name": "Gratitude",
+    "artist_id": "97034f51-bfa5-5da2-9493-ae8874b7b301",
+    "artist_name": "Big Red Machine",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 44,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.767,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d850fa83-e4ac-490b-ac1a-9d465c7a00af",
+    "musicbrainz_release_mbid": "62ef8447-3c32-4bb2-9dca-074adc7f0278"
+  },
+  {
+    "id": "2e83e36b-6535-5d01-a3da-e4d44427bf2e",
+    "song_name": "People Lullaby",
+    "artist_id": "97034f51-bfa5-5da2-9493-ae8874b7b301",
+    "artist_name": "Big Red Machine",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 45,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.77,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0a1c99b7-8d50-4e6b-a8a1-9277d763e731",
+    "musicbrainz_release_mbid": "8d8ae24b-105c-4007-b1e5-1cdab765b109"
+  },
+  {
+    "id": "8c6f2d77-cfe6-541a-a75e-6c0119a7a50b",
+    "song_name": "Air Stryp",
+    "artist_id": "97034f51-bfa5-5da2-9493-ae8874b7b301",
+    "artist_name": "Big Red Machine",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 45,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.774,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b1139c1e-0da3-4f37-b178-76cadb609465",
+    "musicbrainz_release_mbid": "8d8ae24b-105c-4007-b1e5-1cdab765b109"
+  },
+  {
+    "id": "09a58166-92d5-5d53-8c31-a1a97899dab2",
+    "song_name": "Rainforest",
+    "artist_id": "b31bc680-7b4d-53cf-b32d-97ac2ec4a073",
+    "artist_name": "Noname",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 46,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.442,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "799ed3ce-2ed5-45c1-80fb-84f163574ad7",
+    "musicbrainz_release_mbid": "89389ff6-5ba4-4787-b7c0-05f86db48119"
+  },
+  {
+    "id": "ee9f5888-01fa-5772-8c5a-9380c69ab8c2",
+    "song_name": "Halts Maul",
+    "artist_id": "b31bc680-7b4d-53cf-b32d-97ac2ec4a073",
+    "artist_name": "Noname",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 39,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.661,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b5e837b2-3431-4d23-9371-37b2472f2eeb",
+    "musicbrainz_release_mbid": "7bc9507f-e598-470f-9852-c8315cea8aca"
+  },
+  {
+    "id": "9849d80b-5737-5d06-b4cf-93d763620ae7",
+    "song_name": "Kill",
+    "artist_id": "a43e691d-ad4e-51a3-a847-047b3bd564cc",
+    "artist_name": "Earl Sweatshirt",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 82,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.446,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "b58a7abb-96fe-4cd2-971f-fe1d797abec2",
+    "musicbrainz_release_mbid": "30648efa-3981-409c-8f85-9b92e194d736"
+  },
+  {
+    "id": "55db819d-30ca-5fb9-80f0-222a12bba239",
+    "song_name": "Wind in My Sails",
+    "artist_id": "a43e691d-ad4e-51a3-a847-047b3bd564cc",
+    "artist_name": "Earl Sweatshirt",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 83,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.449,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "31e68510-6a13-4ae8-aef3-189b718a2748",
+    "musicbrainz_release_mbid": "1dea2e2b-92ea-4f72-9e38-92f23e9e60f5"
+  },
+  {
+    "id": "12b56e1d-45be-5c1d-91a8-b554150be75c",
+    "song_name": "Off Top",
+    "artist_id": "a43e691d-ad4e-51a3-a847-047b3bd564cc",
+    "artist_name": "Earl Sweatshirt",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 90,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.514,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "8bb4c56b-dae5-4949-a910-18ae8762c110",
+    "musicbrainz_release_mbid": "dc8b8c33-2138-4fd9-b9fa-a31863a3e858"
+  },
+  {
+    "id": "4a7045b2-cba2-5559-b13d-0f33ed2d8497",
+    "song_name": "deniyorum, ama",
+    "artist_id": "16310aad-3838-5949-a8c5-67416296e590",
+    "artist_name": "MAVI",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 70,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.518,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "9e3712c0-7e5e-439a-8c7e-d8ea50c345fc",
+    "musicbrainz_release_mbid": "104e6f01-df08-44c8-85e3-298d9103da4d"
+  },
+  {
+    "id": "0cdb041a-7aa1-5ab4-970a-7ea682900291",
+    "song_name": "E so’ cuntento ‘e stà",
+    "artist_id": "16310aad-3838-5949-a8c5-67416296e590",
+    "artist_name": "MAVI",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 54,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.521,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "83455c94-e660-48f0-937e-3df4b8c19b26",
+    "musicbrainz_release_mbid": "351dd84d-2d23-4651-8358-c54433f9cfae"
+  },
+  {
+    "id": "1e236ba3-8914-5039-a2e6-fe4d6b227540",
+    "song_name": "Medley, Pt. 2",
+    "artist_id": "16310aad-3838-5949-a8c5-67416296e590",
+    "artist_name": "MAVI",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 60,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.524,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "1d46d492-fb2e-4328-b7c4-09f67cb5d931",
+    "musicbrainz_release_mbid": "63530a05-2e15-4f56-bc57-389266edf146"
+  },
+  {
+    "id": "8003f584-f259-5026-bd49-6cef98def415",
+    "song_name": "Peculiar",
+    "artist_id": "b2944ada-9f69-5009-8c0e-107a984958de",
+    "artist_name": "JID",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 20,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.453,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "bb2cda46-d94b-4bcf-8f7c-3ac73e86d367",
+    "musicbrainz_release_mbid": "9bb05083-499f-42e1-b00d-b33c557b03f6"
+  },
+  {
+    "id": "bcdc8e2a-5aeb-58c2-9308-621ffcbee531",
+    "song_name": "Cypher (Bonus)",
+    "artist_id": "b2944ada-9f69-5009-8c0e-107a984958de",
+    "artist_name": "JID",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 15,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.528,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d3bd8f2c-9618-4dbb-a6b7-ae1fef8bb107",
+    "musicbrainz_release_mbid": "0941c274-28f0-414a-bc16-be6f18a1af16"
+  },
+  {
+    "id": "8445035f-3dc0-5d3f-9a20-05d3016e2a2a",
+    "song_name": "Pitstop",
+    "artist_id": "b2944ada-9f69-5009-8c0e-107a984958de",
+    "artist_name": "JID",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 16,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.572,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "40e6fa56-09d7-4aa8-a6c6-d89150064169",
+    "musicbrainz_release_mbid": "0941c274-28f0-414a-bc16-be6f18a1af16"
+  },
+  {
+    "id": "2b82db7e-cd41-5ee8-baf4-a46e59d2d495",
+    "song_name": "Tender Rain",
+    "artist_id": "bc920558-7f6a-5d1b-8a40-a42cb7caf326",
+    "artist_name": "Saba",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 13,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.576,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6c54f86f-a3a8-4a6a-936d-14dbefa0e24c",
+    "musicbrainz_release_mbid": "45a51e86-27a2-4a98-be00-def0071dd063"
+  },
+  {
+    "id": "6ca1c959-cd41-5968-a7ab-e206b6031067",
+    "song_name": "Crowded Desert",
+    "artist_id": "bc920558-7f6a-5d1b-8a40-a42cb7caf326",
+    "artist_name": "Saba",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 21,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.456,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0b7e409b-0d78-4562-8a58-39f5ed7e8469",
+    "musicbrainz_release_mbid": "adea3d9b-2f4a-4671-b5bb-0bde21c0d576"
+  },
+  {
+    "id": "f07d7950-b0f7-5fbc-b1d8-c78558eb54ee",
+    "song_name": "Marbles",
+    "artist_id": "bc920558-7f6a-5d1b-8a40-a42cb7caf326",
+    "artist_name": "Saba",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 16,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.579,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "d5c3e00c-473c-46bd-a517-c2a42703deed",
+    "musicbrainz_release_mbid": "34b3e186-493f-4baa-8f93-bec73e8bcf86"
+  },
+  {
+    "id": "6ab6dd81-be21-53e0-9776-6e9bb5e95848",
+    "song_name": "Rolling Stone",
+    "artist_id": "676df396-5c8d-569b-aa83-e7a49c2bd9e8",
+    "artist_name": "Danny Brown",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 30,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.664,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "adda1a1a-89dd-4dd2-9beb-a753be536b89",
+    "musicbrainz_release_mbid": "9081346b-8ffa-4a72-a9b7-fd3bd393dbd9"
+  },
+  {
+    "id": "b7d7a1cc-6133-54a4-9eab-2437a8af0316",
+    "song_name": "Lost",
+    "artist_id": "676df396-5c8d-569b-aa83-e7a49c2bd9e8",
+    "artist_name": "Danny Brown",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 30,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.668,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "df950513-78c8-4f10-ad2a-8bb65fc4ded1",
+    "musicbrainz_release_mbid": "9081346b-8ffa-4a72-a9b7-fd3bd393dbd9"
+  },
+  {
+    "id": "d43caa49-738e-5681-93dc-0d9527a4ebeb",
+    "song_name": "Downward Spiral",
+    "artist_id": "676df396-5c8d-569b-aa83-e7a49c2bd9e8",
+    "artist_name": "Danny Brown",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 31,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.671,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "bf69de23-0baa-482a-be9c-e4d55de6c303",
+    "musicbrainz_release_mbid": "9081346b-8ffa-4a72-a9b7-fd3bd393dbd9"
+  },
+  {
+    "id": "2bf23322-7d19-5e61-88d2-ea9d38d07cb0",
+    "song_name": "Too Late",
+    "artist_id": "9dc312ce-6338-56e2-8715-d833884a9322",
+    "artist_name": "SZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 83,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.531,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4d49594b-2a3e-4116-b681-4d064a73bbff",
+    "musicbrainz_release_mbid": "a38f8a03-faf9-4f09-849e-e6596c16ae5c"
+  },
+  {
+    "id": "1b5c9f63-ac29-5d33-a3b2-f53394a7001c",
+    "song_name": "Special",
+    "artist_id": "9dc312ce-6338-56e2-8715-d833884a9322",
+    "artist_name": "SZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 84,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.535,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "650faea4-5670-4523-b6bd-74aa478963a2",
+    "musicbrainz_release_mbid": "a38f8a03-faf9-4f09-849e-e6596c16ae5c"
+  },
+  {
+    "id": "4c3aec04-3147-57c9-94ee-950801685aaa",
+    "song_name": "Conceited",
+    "artist_id": "9dc312ce-6338-56e2-8715-d833884a9322",
+    "artist_name": "SZA",
+    "genre": "electronic",
+    "mood": [
+      "energetic",
+      "hypnotic"
+    ],
+    "popularity": 84,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.538,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6e7d8498-8ea3-4369-8947-f4f547a7b2a4",
+    "musicbrainz_release_mbid": "a38f8a03-faf9-4f09-849e-e6596c16ae5c"
+  },
+  {
+    "id": "b040a1ab-9046-5bcd-9d3f-6d1e1327ded2",
+    "song_name": "This Song’s for You",
+    "artist_id": "92c4b944-89ad-54dc-9855-ec00279ccbe2",
+    "artist_name": "Solange",
+    "genre": "hip-hop",
+    "mood": [
+      "energetic",
+      "confident"
+    ],
+    "popularity": 24,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.541,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "719e3378-e2f3-4c78-a41a-0d9bd8e0bc9e",
+    "musicbrainz_release_mbid": "a7e93156-d6a0-49ea-aafc-b8acaf7b7fd0"
+  },
+  {
+    "id": "fab59157-ebb5-5fde-ad59-0adb8004fde8",
+    "song_name": "Fake Tales of San Francisco",
+    "artist_id": "97fde50a-3aa5-5717-978e-7acde69cd9ba",
+    "artist_name": "Arctic Monkeys",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 72,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.777,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "4a5d422c-38cb-4173-84f3-86006d52d4b5",
+    "musicbrainz_release_mbid": "fecec7c4-7522-4803-a7a0-60ac1c8ed1ae"
+  },
+  {
+    "id": "0d294430-a8a3-5e14-9a48-958ae5f72296",
+    "song_name": "Love Machine",
+    "artist_id": "97fde50a-3aa5-5717-978e-7acde69cd9ba",
+    "artist_name": "Arctic Monkeys",
+    "genre": "latin",
+    "mood": [
+      "energetic",
+      "groovy"
+    ],
+    "popularity": 90,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.582,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "c62ebe88-30e2-49c6-8fb7-ca663acb7ef1",
+    "musicbrainz_release_mbid": "b2f9189a-8661-4a03-bbf6-a6a887f3be8c"
+  },
+  {
+    "id": "29fed942-a802-5940-abdc-dbf21d6a17fc",
+    "song_name": "You Probably Couldn't See for the Lights but You Were Staring at Me",
+    "artist_id": "97fde50a-3aa5-5717-978e-7acde69cd9ba",
+    "artist_name": "Arctic Monkeys",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 73,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.781,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "349afbf4-5813-4439-a59f-4e97933a6456",
+    "musicbrainz_release_mbid": "fecec7c4-7522-4803-a7a0-60ac1c8ed1ae"
+  },
+  {
+    "id": "926ae941-457a-577a-ae93-a8a38c1c2a05",
+    "song_name": "Your Love Is Calling My Name",
+    "artist_id": "38b81fb4-4d09-5684-b438-6ecd21f5a22e",
+    "artist_name": "The War on Drugs",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 54,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.832,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "6186087d-d0e8-496d-a199-eb94212a2912",
+    "musicbrainz_release_mbid": "f18d035d-50e2-484a-9ace-edb9b3007bea"
+  },
+  {
+    "id": "ed492262-ec71-51b0-8f14-caa6e2fdba5b",
+    "song_name": "The Animator",
+    "artist_id": "38b81fb4-4d09-5684-b438-6ecd21f5a22e",
+    "artist_name": "The War on Drugs",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 54,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.835,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ac75232e-3949-461a-a288-3cbb4877b74d",
+    "musicbrainz_release_mbid": "f18d035d-50e2-484a-9ace-edb9b3007bea"
+  },
+  {
+    "id": "aea12986-b3ac-56b3-a876-051932a875b0",
+    "song_name": "I Don't Wanna Wait (Demo)",
+    "artist_id": "38b81fb4-4d09-5684-b438-6ecd21f5a22e",
+    "artist_name": "The War on Drugs",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 61,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.784,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "ecc817b6-e6c6-47db-8739-77b9a405cef1",
+    "musicbrainz_release_mbid": "eb7ef6ee-1108-4e62-b740-e0e2c3d1d7b0"
+  },
+  {
+    "id": "a1236d29-4a5d-5c9d-9427-795c51788395",
+    "song_name": "Too Late Now",
+    "artist_id": "e1775c4e-ef37-58ad-8f95-ecbbfb158da3",
+    "artist_name": "Wet Leg",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 73,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.787,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "029ea48f-ce5e-4245-ac6e-9e7d16f69f62",
+    "musicbrainz_release_mbid": "a9a59a40-16b8-4ad0-a8c6-34ac07aed931"
+  },
+  {
+    "id": "7d57a025-6e74-55b9-b74a-a72112975e3b",
+    "song_name": "Oh No",
+    "artist_id": "e1775c4e-ef37-58ad-8f95-ecbbfb158da3",
+    "artist_name": "Wet Leg",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 73,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.791,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "a2473f3a-3cb1-4f04-bea3-83e42cc0de61",
+    "musicbrainz_release_mbid": "a9a59a40-16b8-4ad0-a8c6-34ac07aed931"
+  },
+  {
+    "id": "9ab9d26f-3c81-550a-9a76-32f705e3d8fe",
+    "song_name": "Being in Love",
+    "artist_id": "e1775c4e-ef37-58ad-8f95-ecbbfb158da3",
+    "artist_name": "Wet Leg",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 74,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.839,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "10dafc47-c264-402e-9edf-535de267abce",
+    "musicbrainz_release_mbid": "a9a59a40-16b8-4ad0-a8c6-34ac07aed931"
+  },
+  {
+    "id": "83e3d27b-12d4-5248-94e8-e1980daad65c",
+    "song_name": "Dublin City Sky",
+    "artist_id": "f3ac0f3f-7f59-580d-bd25-cc04db115f1c",
+    "artist_name": "Fontaines D.C.",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 61,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.842,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "0824379c-c8da-4ecd-a636-87a853f28df2",
+    "musicbrainz_release_mbid": "05d332d3-b517-450f-a278-90cdaddaf29d"
+  },
+  {
+    "id": "10a9cc3b-75e5-5ea4-9a56-5b8902c9cc54",
+    "song_name": "Too Real",
+    "artist_id": "f3ac0f3f-7f59-580d-bd25-cc04db115f1c",
+    "artist_name": "Fontaines D.C.",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 62,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.846,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "00bb1cca-4900-4a3c-a26b-cc10581c5cb1",
+    "musicbrainz_release_mbid": "05d332d3-b517-450f-a278-90cdaddaf29d"
+  },
+  {
+    "id": "ec6dd83c-d8dc-525f-ae0c-dfadd7a09881",
+    "song_name": "Big",
+    "artist_id": "f3ac0f3f-7f59-580d-bd25-cc04db115f1c",
+    "artist_name": "Fontaines D.C.",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 62,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.849,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "771b3350-16f0-4d47-9e04-d0ee89c04230",
+    "musicbrainz_release_mbid": "05d332d3-b517-450f-a278-90cdaddaf29d"
+  },
+  {
+    "id": "601c9804-a563-51d1-9ee4-3656dc0f79d8",
+    "song_name": "Cha Cha 2000",
+    "artist_id": "0f647110-4d7b-5511-8a69-ef6d7444941d",
+    "artist_name": "Geese",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 16,
+    "emerging_artist_flag": true,
+    "hidden_gem_flag": true,
+    "community_buzz_score": 0.852,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "f9d4da23-a09b-4de2-90f7-eaaf74366f19",
+    "musicbrainz_release_mbid": "b9a35a45-0dcc-451d-b22b-c67c93019465"
+  },
+  {
+    "id": "e3dae01e-5992-5a4e-b678-532eb53f7197",
+    "song_name": "Geese - An End",
+    "artist_id": "0f647110-4d7b-5511-8a69-ef6d7444941d",
+    "artist_name": "Geese",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 46,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.856,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "81650e9d-7adc-4e59-9bbc-c76d8e58709a",
+    "musicbrainz_release_mbid": "1c2f984b-cd1e-4ddf-8e66-9a6a08df3415"
+  },
+  {
+    "id": "a0397d61-d9c4-5205-88f4-97b9b5896533",
+    "song_name": "I See Myself",
+    "artist_id": "0f647110-4d7b-5511-8a69-ef6d7444941d",
+    "artist_name": "Geese",
+    "genre": "indie",
+    "mood": [
+      "melancholic",
+      "introspective"
+    ],
+    "popularity": 74,
+    "emerging_artist_flag": false,
+    "hidden_gem_flag": false,
+    "community_buzz_score": 0.859,
+    "source": "musicbrainz",
+    "musicbrainz_recording_mbid": "cf22a496-eec8-411b-9bf7-67a063706dfa",
+    "musicbrainz_release_mbid": "f8699567-52e5-41cd-a166-20ce776f30cf"
+  }
+]

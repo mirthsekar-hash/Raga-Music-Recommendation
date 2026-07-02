@@ -1,0 +1,49 @@
+{
+  "name": "raga-discovery-companion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fetch:seed": "tsx scripts/fetch-musicbrainz.ts",
+    "fetch:seed:fast": "tsx scripts/fetch-musicbrainz.ts --skip-cover-art",
+    "validate:seed": "tsx scripts/fetch-musicbrainz.ts --validate-only",
+    "postprocess:seed": "tsx scripts/postprocess-seed.ts",
+    "seed": "tsx scripts/seed.ts",
+    "test:intent": "tsx scripts/test-intent.ts",
+    "test:scoring": "tsx scripts/test-scoring.ts",
+    "test:recommend": "tsx scripts/test-recommend.ts",
+    "test:chat": "tsx scripts/test-chat.ts",
+    "test:feedback": "tsx scripts/test-feedback.ts",
+    "audit:secrets": "tsx scripts/audit-secrets.ts",
+    "smoke:test": "tsx scripts/smoke-test.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "@supabase/supabase-js": "^2.49.1",
+    "framer-motion": "^12.42.2",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "server-only": "^0.0.1",
+    "uuid": "^11.1.0",
+    "zod": "^3.24.2",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.21",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^15.2.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

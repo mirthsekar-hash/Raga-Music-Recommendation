@@ -1,0 +1,62 @@
+{
+  "targetSongCount": 200,
+  "maxSongsPerArtist": 3,
+  "songsPerGenre": { "min": 12, "max": 18 },
+  "genres": [
+    "indie",
+    "electronic",
+    "lo-fi",
+    "jazz",
+    "folk",
+    "hip-hop",
+    "r-n-b",
+    "rock",
+    "ambient",
+    "soul",
+    "classical",
+    "latin",
+    "world",
+    "metal",
+    "pop"
+  ],
+  "anchorArtists": {
+    "indie": ["Big Thief", "Snail Mail", "Japanese Breakfast", "Soccer Mommy", "Phoebe Bridgers"],
+    "electronic": ["Bonobo", "Tycho", "Four Tet", "Caribou", "Floating Points"],
+    "lo-fi": ["Nujabes", "J Dilla", "Idealism", "Tomppabeats", "Kupla"],
+    "jazz": ["Kamasi Washington", "Robert Glasper", "Esperanza Spalding", "BadBadNotGood", "Nubya Garcia"],
+    "folk": ["Fleet Foxes", "Bon Iver", "Angel Olsen", "Iron & Wine", "Sufjan Stevens"],
+    "hip-hop": ["Kendrick Lamar", "Tyler, The Creator", "Noname", "Earl Sweatshirt", "Mavi"],
+    "r-n-b": ["SZA", "Frank Ocean", "Solange", "Moses Sumney", "Jamila Woods"],
+    "rock": ["Radiohead", "Arctic Monkeys", "The War on Drugs", "Wet Leg", "Black Midi"],
+    "ambient": ["Brian Eno", "Hammock", "Stars of the Lid", "Biosphere", "Tim Hecker"],
+    "soul": ["Leon Bridges", "Michael Kiwanuka", "Yebba", "Brittany Howard", "Celeste"],
+    "classical": ["Max Richter", "Ólafur Arnalds", "Hildur Guðnadóttir", "Nils Frahm", "Dustin O'Halloran"],
+    "latin": ["Bad Bunny", "Rosalía", "Anitta", "Natalia Lafourcade", "Mon Laferte"],
+    "world": ["Anoushka Shankar", "Tinariwen", "Bombino", "Fatoumata Diawara", "GoGo Penguin"],
+    "metal": ["Deafheaven", "Gojira", "Sleep Token", "Spiritbox", "Polyphia"],
+    "pop": ["Billie Eilish", "Lorde", "Charli XCX", "Clairo", "FKA twigs"]
+  },
+  "overflowArtists": {
+    "indie": ["Clairo", "Beabadoobee", "Wallows"],
+    "electronic": ["ODESZA", "RÜFÜS DU SOL", "Disclosure"],
+    "lo-fi": ["Aso", "eevee", "SwuM"],
+    "jazz": ["GoGo Penguin", "Christian Scott", "Hiromi"],
+    "folk": ["The Tallest Man on Earth", "José González", "Big Red Machine"],
+    "hip-hop": ["JID", "Saba", "Danny Brown"],
+    "r-n-b": ["Daniel Caesar", "H.E.R.", "Snoh Aalegra"],
+    "rock": ["Fontaines D.C.", "Idles", "Geese"],
+    "ambient": ["Helios", "Eluvium", "36"],
+    "soul": ["Anderson .Paak", "Curtis Harding", "Durand Bernarr"],
+    "classical": ["Ludovico Einaudi", "Joep Beving", "Hauschka"],
+    "latin": ["J Balvin", "Karol G", "Shakira"],
+    "world": ["Amadou & Mariam", "Ali Farka Touré", "Ravi Shankar"],
+    "metal": ["Alcest", "Opeth", "Mastodon"],
+    "pop": ["Dua Lipa", "Taylor Swift", "The Weeknd"]
+  },
+  "discoveryMix": {
+    "hiddenGemTargetPct": 0.25,
+    "emergingArtistTargetPct": 0.2,
+    "mainstreamAnchorPct": 0.3
+  },
+  "hiddenGemOverrides": []
+}

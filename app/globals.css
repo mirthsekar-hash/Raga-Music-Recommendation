@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --spotify-green: #1db954;
+  --spotify-green-hover: #1ed760;
+  --spotify-black: #000000;
+  --spotify-base: #121212;
+  --spotify-surface: #181818;
+  --spotify-highlight: #282828;
+  --spotify-subtext: #b3b3b3;
+  --raga-green: #1db954;
+  --raga-green-hover: #1ed760;
+  --raga-dark: #121212;
+  --raga-surface: #181818;
+  --raga-elevated: #282828;
+  --raga-muted: #b3b3b3;
+}
+
+@layer base {
+  * {
+    @apply border-spotify-highlight;
+  }
+
+  body {
+    @apply bg-spotify-base text-white antialiased;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+}
