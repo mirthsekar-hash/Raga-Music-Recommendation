@@ -27,8 +27,8 @@ export function ChatWindow() {
   const searchParams = useSearchParams();
   const initialQuery = searchParams.get("q")?.trim() ?? "";
 
-  const [input, setInput] = useState(initialQuery);
-  const [loading, setLoading] = useState(() => Boolean(initialQuery));
+  const [input, setInput] = useState("");
+  const [loading, setLoading] = useState(false);
   const [statusMessage, setStatusMessage] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [degradedNotice, setDegradedNotice] = useState<string | null>(null);
@@ -58,13 +58,13 @@ export function ChatWindow() {
       const trimmed = text.trim();
       if (!trimmed || loading) return;
 
-      setError(null);
-      setDegradedNotice(null);
-      setLoading(true);
-      setStatusMessage("Sending…");
-      setShowVibeChips(false);
       setInput("");
       addUserMessage(trimmed);
+      setError(null);
+      setDegradedNotice(null);
+      setShowVibeChips(false);
+      setLoading(true);
+      setStatusMessage(messages.length === 0 ? "Starting your discovery…" : "Sending…");
 
       try {
         const response = await postChatStream(trimmed, sessionId, {
@@ -109,13 +109,12 @@ export function ChatWindow() {
         inputRef.current?.focus();
       }
     },
-    [loading, sessionId, addUserMessage, addAssistantMessage, setSessionId, searchParams, router],
+    [loading, messages.length, sessionId, addUserMessage, addAssistantMessage, setSessionId, searchParams, router],
   );
 
   useEffect(() => {
     if (!hydrated || autoSentRef.current || !initialQuery) return;
     autoSentRef.current = true;
-    setStatusMessage("Starting your discovery…");
     void sendMessage(initialQuery);
   }, [hydrated, initialQuery, sendMessage]);
 
