@@ -1,6 +1,6 @@
 # Raga – Phase-Wise Edge Cases
 
-Edge cases, failure modes, and mitigations for each implementation phase. Use this alongside the [Implementation Plan](./implementationPlan.md) and [Architecture](./architecture.md) during development and QA.
+Edge cases, failure modes, and mitigations for each implementation phase. Use this alongside the [Implementation Plan](./implementationPlan.md), [Architecture](./architecture.md), and automated [Evals](./evals.md) during development and QA.
 
 **Legend:** `ID` · **Scenario** · **Expected behavior** · **Mitigation / test**
 

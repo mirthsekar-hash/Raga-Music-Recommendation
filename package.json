@@ -18,7 +18,11 @@
     "test:chat": "tsx scripts/test-chat.ts",
     "test:feedback": "tsx scripts/test-feedback.ts",
     "audit:secrets": "tsx scripts/audit-secrets.ts",
-    "smoke:test": "tsx scripts/smoke-test.ts"
+    "smoke:test": "tsx scripts/smoke-test.ts",
+    "eval": "tsx scripts/eval-all.ts",
+    "eval:relevance": "tsx scripts/eval-relevance.ts",
+    "eval:intent": "tsx scripts/eval-intent.ts",
+    "eval:explain": "tsx scripts/eval-explain.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.0",

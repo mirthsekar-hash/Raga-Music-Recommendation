@@ -103,6 +103,20 @@ npm run build && npm run audit:secrets
 npm run smoke:test          # after deploy or with local dev server
 ```
 
+## Evals (golden-set regression)
+
+Offline evals use fixed fixtures in `evals/fixtures/` — no Gemini quota, safe for CI:
+
+```bash
+npm run eval                # relevance + intent heuristic + explain grounding
+npm run eval:relevance      # off-topic vs music-discovery guardrails
+npm run eval:intent         # heuristic intent against golden prompts
+npm run eval:explain        # template explanations cite song/artist only
+npm run eval:intent -- --live   # also score POST /api/intent (uses Gemini)
+```
+
+Golden cases live in `evals/fixtures/intent-golden.json` and `relevance-golden.json`. Add new rows when you fix edge cases or change prompts.
+
 PowerShell example:
 
 ```powershell
@@ -162,6 +176,7 @@ TEST_BASE_URL=https://your-app.vercel.app npm run smoke:test
 - [Architecture](./docs/architecture.md)
 - [Implementation Plan](./docs/implementationPlan.md)
 - [Edge Cases](./docs/edgeCases.md)
+- [Evals](./docs/evals.md)
 
 ## License
 

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "on-topic-mood",
+    "message": "Chill indie for a late-night drive",
+    "expectIrrelevant": false
+  },
+  {
+    "id": "on-topic-similar",
+    "message": "Songs similar to Bon Iver",
+    "expectIrrelevant": false
+  },
+  {
+    "id": "on-topic-trending",
+    "message": "What's trending in indie communities?",
+    "expectIrrelevant": false
+  },
+  {
+    "id": "on-topic-discovery-phrase",
+    "message": "Show me something new to listen to",
+    "expectIrrelevant": false
+  },
+  {
+    "id": "off-topic-weather",
+    "message": "What's the weather in London tomorrow?",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-recipe",
+    "message": "How do I bake a chocolate cake from scratch?",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-math",
+    "message": "Solve this calculus equation for me",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-politics",
+    "message": "Who won the last presidential election?",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-coding",
+    "message": "Debug my Python code please",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-capital",
+    "message": "What is the capital of France?",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-news",
+    "message": "What are today's breaking news headlines?",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "off-topic-flights",
+    "message": "Book a flight to Tokyo next week",
+    "expectIrrelevant": true
+  },
+  {
+    "id": "music-context-weather-joke",
+    "message": "Rainy day music — something cozy to listen to",
+    "expectIrrelevant": false
+  },
+  {
+    "id": "empty-not-irrelevant",
+    "message": "",
+    "expectIrrelevant": false
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "similar-coldplay",
+    "message": "Give me hidden gems similar to Coldplay",
+    "expect": {
+      "intent": "similar_to",
+      "explorationLevel": "adventurous",
+      "seedArtistContains": "coldplay"
+    }
+  },
+  {
+    "id": "workout-energetic",
+    "message": "I want something energetic for a workout",
+    "expect": {
+      "intent": "activity_based",
+      "moodContains": ["energetic"]
+    }
+  },
+  {
+    "id": "trending-indie",
+    "message": "Recommend songs trending in indie communities",
+    "expect": {
+      "intent": "trending",
+      "genreContains": ["indie"],
+      "explorationLevel": "adventurous"
+    }
+  },
+  {
+    "id": "late-night-drive",
+    "message": "Recommend music for a late-night drive",
+    "expect": {
+      "intent": "activity_based",
+      "activityContains": "drive"
+    }
+  },
+  {
+    "id": "underrated-indie",
+    "message": "Suggest underrated indie artists",
+    "expect": {
+      "explorationLevel": "adventurous",
+      "genreContains": ["indie"]
+    }
+  },
+  {
+    "id": "chill-jazz-study",
+    "message": "Something chill jazz for studying",
+    "expect": {
+      "intent": "activity_based",
+      "genreContains": ["jazz"],
+      "moodContains": ["chill"]
+    }
+  },
+  {
+    "id": "mood-pop",
+    "message": "Upbeat pop for a party",
+    "expect": {
+      "intent": "activity_based",
+      "genreContains": ["pop"],
+      "moodContains": ["upbeat"]
+    }
+  },
+  {
+    "id": "similar-radiohead",
+    "message": "Artists like Radiohead but more obscure",
+    "expect": {
+      "intent": "similar_to",
+      "seedArtistContains": "radiohead",
+      "explorationLevel": "adventurous"
+    }
+  },
+  {
+    "id": "general-discover",
+    "message": "Help me discover new music",
+    "expect": {
+      "intent": "general_discovery",
+      "explorationLevel": "adventurous"
+    }
+  },
+  {
+    "id": "vague-music",
+    "message": "music",
+    "expect": {
+      "intent": "general_discovery",
+      "requiresClarifying": true,
+      "vagueInput": true
+    }
+  },
+  {
+    "id": "vague-something",
+    "message": "something",
+    "expect": {
+      "intent": "general_discovery",
+      "requiresClarifying": true,
+      "vagueInput": true
+    }
+  }
+]
