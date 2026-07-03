@@ -6,7 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { ChatApiError, postChatStream } from "@/lib/api/chat-client";
 import { VIBE_CHIPS } from "@/lib/constants/ui";
 import { useSessionStore } from "@/lib/store/session";
-import { BottomNav, RagaLogo } from "@/components/layout/BottomNav";
+import { BottomNav, BackButton, RagaLogo } from "@/components/layout/BottomNav";
 import { RecommendationGrid } from "@/components/RecommendationGrid";
 import { ChatLoadingSkeleton } from "@/components/ui/Skeleton";
 import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
@@ -137,9 +137,7 @@ export function ChatWindow() {
     <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col bg-spotify-black">
       <header className="flex shrink-0 items-center justify-between border-b border-white/5 px-4 py-3 pt-10">
         <div className="flex items-center gap-2">
-          <Link href="/" className="text-white" aria-label="Back to home">
-            ←
-          </Link>
+          <BackButton href="/" />
           <RagaLogo size="sm" />
         </div>
         <div className="flex items-center gap-2">

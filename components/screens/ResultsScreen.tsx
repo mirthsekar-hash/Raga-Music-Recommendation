@@ -10,7 +10,7 @@ import { BackButton, BottomNav, RagaLogo } from "@/components/layout/BottomNav";
 import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { EXPLORE_CATEGORIES, FILTER_PILLS } from "@/lib/constants/ui";
 import { truncateForCard } from "@/lib/explain/schema";
-import { useSessionStore } from "@/lib/store/session";
+import { getLatestResultCards, useSessionStore } from "@/lib/store/session";
 import type { RecommendationCard } from "@/types";
 
 function ResultListCard({ card }: { card: RecommendationCard }) {
@@ -77,11 +77,7 @@ function ResultListCard({ card }: { card: RecommendationCard }) {
 export function ResultsScreen() {
   const [hydrated, setHydrated] = useState(false);
   const [activeFilter, setActiveFilter] = useState<(typeof FILTER_PILLS)[number]>("All");
-  const cardsById = useSessionStore((s) => s.cardsById);
-  const feedbackBySongId = useSessionStore((s) => s.feedbackBySongId);
-  const cards = Object.values(cardsById).filter(
-    (card) => feedbackBySongId[card.candidate.song.id] !== "skip",
-  );
+  const cards = useSessionStore((s) => getLatestResultCards(s.messages, s.feedbackBySongId));
 
   useEffect(() => setHydrated(true), []);
 

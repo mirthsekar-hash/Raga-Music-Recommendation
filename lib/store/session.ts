@@ -35,6 +35,22 @@ function newMessageId(): string {
   return `msg_${Date.now()}_${Math.random().toString(36).slice(2, 9)}`;
 }
 
+/** Cards from the most recent assistant turn that returned recommendations. */
+export function getLatestResultCards(
+  messages: ChatMessage[],
+  feedbackBySongId: Record<string, FeedbackAction>,
+): RecommendationCard[] {
+  for (let i = messages.length - 1; i >= 0; i--) {
+    const message = messages[i];
+    if (message.role === "assistant" && message.cards?.length) {
+      return message.cards.filter(
+        (card) => feedbackBySongId[card.candidate.song.id] !== "skip",
+      );
+    }
+  }
+  return [];
+}
+
 export const useSessionStore = create<SessionState>()(
   persist(
     (set, get) => ({

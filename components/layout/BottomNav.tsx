@@ -101,7 +101,9 @@ export function BackButton({ href = "/" }: { href?: string }) {
       className="flex h-9 w-9 items-center justify-center rounded-full text-white transition hover:bg-white/10"
       aria-label="Go back"
     >
-      ←
+      <span className="block translate-x-[-1px] text-[26px] font-normal leading-none" aria-hidden>
+        &lt;
+      </span>
     </Link>
   );
 }
