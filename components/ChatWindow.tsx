@@ -6,10 +6,10 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { ChatApiError, postChatStream } from "@/lib/api/chat-client";
 import { VIBE_CHIPS } from "@/lib/constants/ui";
 import { useSessionStore } from "@/lib/store/session";
-import { BottomNav, BackButton, RagaLogo } from "@/components/layout/BottomNav";
+import { AppHeader } from "@/components/layout/AppHeader";
+import { BottomNav } from "@/components/layout/BottomNav";
 import { RecommendationGrid } from "@/components/RecommendationGrid";
 import { ChatLoadingSkeleton } from "@/components/ui/Skeleton";
-import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { ErrorState } from "@/components/ui/ErrorState";
 import { ServiceBanner } from "@/components/ui/ServiceBanner";
 import { TypewriterText } from "@/components/ui/TypewriterText";
@@ -135,28 +135,27 @@ export function ChatWindow() {
 
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col bg-spotify-black">
-      <header className="flex shrink-0 items-center justify-between border-b border-white/5 px-4 py-3 pt-10">
-        <div className="flex items-center gap-2">
-          <BackButton href="/" />
-          <RagaLogo size="sm" />
-        </div>
-        <div className="flex items-center gap-2">
-          <SpotifyLogo size="sm" />
-          <button
-            type="button"
-            onClick={() => {
-              clearSession();
-              window.location.href = "/chat";
-            }}
-            className="text-xs text-spotify-subtext hover:text-white"
-          >
-            New chat
-          </button>
-          <button type="button" className="text-spotify-subtext" aria-label="Menu">
-            ⋮
-          </button>
-        </div>
-      </header>
+      <AppHeader
+        variant="inner"
+        backHref="/"
+        actions={
+          <>
+            <button
+              type="button"
+              onClick={() => {
+                clearSession();
+                window.location.href = "/chat";
+              }}
+              className="text-xs font-semibold text-spotify-subtext transition hover:text-white"
+            >
+              New chat
+            </button>
+            <button type="button" className="text-spotify-subtext" aria-label="Menu">
+              ⋮
+            </button>
+          </>
+        }
+      />
 
       <div
         className="flex-1 overflow-y-auto px-4 py-4"

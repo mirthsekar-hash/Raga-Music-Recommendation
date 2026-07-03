@@ -6,8 +6,8 @@ import { EmptyState } from "@/components/ui/EmptyState";
 import { AlbumArt } from "@/components/AlbumArt";
 import { DiscoveryBadges, discoverySubtitle } from "@/components/ui/DiscoveryBadges";
 import { FeedbackControls } from "@/components/FeedbackControls";
-import { BackButton, BottomNav, RagaLogo } from "@/components/layout/BottomNav";
-import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
+import { AppHeader } from "@/components/layout/AppHeader";
+import { BottomNav } from "@/components/layout/BottomNav";
 import { EXPLORE_CATEGORIES, FILTER_PILLS } from "@/lib/constants/ui";
 import { truncateForCard } from "@/lib/explain/schema";
 import { getLatestResultCards, useSessionStore } from "@/lib/store/session";
@@ -90,18 +90,15 @@ export function ResultsScreen() {
 
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col bg-spotify-black">
-      <header className="flex items-center justify-between border-b border-white/5 px-4 py-3 pt-10">
-        <div className="flex items-center gap-2">
-          <BackButton href="/chat" />
-          <RagaLogo size="sm" />
-        </div>
-        <div className="flex items-center gap-3">
-          <SpotifyLogo size="sm" />
+      <AppHeader
+        variant="inner"
+        backHref="/chat"
+        actions={
           <button type="button" className="text-spotify-subtext" aria-label="Filter">
             ⧩
           </button>
-        </div>
-      </header>
+        }
+      />
 
       <div className="flex gap-2 overflow-x-auto px-4 py-3 scrollbar-hide">
         {FILTER_PILLS.map((pill) => (

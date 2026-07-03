@@ -3,10 +3,10 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { TRY_THESE, RECENT_SEARCHES } from "@/lib/constants/ui";
-import { BottomNav, RagaLogo } from "@/components/layout/BottomNav";
+import { AppHeader } from "@/components/layout/AppHeader";
+import { BottomNav } from "@/components/layout/BottomNav";
 import { NavigationLoader } from "@/components/ui/NavigationLoader";
 import { SendIcon } from "@/components/ui/SendIcon";
-import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 
 function TryTheseIcon({ type }: { type: string }) {
   const icons: Record<string, string> = {
@@ -43,26 +43,9 @@ export function HomeScreen() {
     <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col bg-spotify-black">
       {navigating && <NavigationLoader message={navMessage} />}
 
-      <header className="flex items-center justify-between px-5 pt-12 pb-4">
-        <RagaLogo />
-        <div className="flex items-center gap-3">
-          <SpotifyLogo size="sm" showWordmark />
-          <div
-            className="relative flex h-9 w-9 items-center justify-center rounded-full text-white"
-            aria-hidden
-          >
-            🔔
-            <span className="absolute right-1 top-1 h-2 w-2 rounded-full bg-spotify-green" />
-          </div>
-          <div className="h-9 w-9 overflow-hidden rounded-full bg-spotify-highlight ring-2 ring-spotify-green/30">
-            <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-emerald-400 to-spotify-highlight text-xs font-bold">
-              V
-            </div>
-          </div>
-        </div>
-      </header>
+      <AppHeader variant="home" />
 
-      <main className="flex-1 overflow-y-auto px-5 pb-4">
+      <main className="flex-1 overflow-y-auto px-5 pb-4 pt-5">
         <h1 className="text-3xl font-black text-white">
           Hi there! <span aria-hidden>👋</span>
         </h1>

@@ -5,9 +5,9 @@ import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AlbumArt } from "@/components/AlbumArt";
 import { FeedbackControls } from "@/components/FeedbackControls";
-import { BackButton, BottomNav } from "@/components/layout/BottomNav";
+import { AppHeader } from "@/components/layout/AppHeader";
+import { BottomNav } from "@/components/layout/BottomNav";
 import { DiscoveryBadges, discoverySubtitle } from "@/components/ui/DiscoveryBadges";
-import { SpotifyLogo } from "@/components/ui/SpotifyLogo";
 import { useSessionStore } from "@/lib/store/session";
 
 export function ResultDetailClient() {
@@ -24,11 +24,15 @@ export function ResultDetailClient() {
 
   if (!card) {
     return (
-      <div className="flex min-h-[50vh] flex-col items-center justify-center px-6 text-center">
-        <p className="text-xl font-bold text-white">Track not found</p>
-        <Link href="/chat" className="mt-6 text-spotify-green">
-          Back to chat
-        </Link>
+      <div className="mx-auto flex min-h-[100dvh] max-w-lg flex-col bg-spotify-black">
+        <AppHeader variant="inner" backHref="/results" />
+        <div className="flex flex-1 flex-col items-center justify-center px-6 text-center">
+          <p className="text-xl font-bold text-white">Track not found</p>
+          <Link href="/chat" className="mt-6 text-spotify-green">
+            Back to chat
+          </Link>
+        </div>
+        <BottomNav active="raga" />
       </div>
     );
   }
@@ -38,17 +42,17 @@ export function ResultDetailClient() {
 
   return (
     <>
-      <div className="px-4 pb-32 pt-2">
-        <header className="mb-4 flex items-center justify-between">
-          <BackButton href="/results" />
-          <div className="flex items-center gap-2">
-            <SpotifyLogo size="sm" />
-            <button type="button" className="text-spotify-subtext" aria-label="More">
-              ⋮
-            </button>
-          </div>
-        </header>
+      <AppHeader
+        variant="inner"
+        backHref="/results"
+        actions={
+          <button type="button" className="text-spotify-subtext" aria-label="More">
+            ⋮
+          </button>
+        }
+      />
 
+      <div className="px-4 pb-32 pt-5">
         <div className="flex gap-4">
           <AlbumArt song={song} artist={artist} size="lg" className="!h-36 !w-36 md:!h-40 md:!w-40" />
           <div className="min-w-0 flex-1 pt-1">
