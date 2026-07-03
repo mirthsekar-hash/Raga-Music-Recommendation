@@ -2,7 +2,7 @@
 
 This document translates the [Problem Statement](./problemStatement.md) into a concrete, buildable, phase-wise architecture for the Raga MVP (AI Discovery Companion + Cultural Discovery Layer).
 
-**Related docs:** [Implementation Plan](./implementationPlan.md) · [Edge Cases](./edgeCases.md) · [Folder Structure](./folderStructure.md) · [Gemini Limits](./gemini-limits.md)
+**Related docs:** [Solution Overview](./solutionOverview.md) · [Implementation Plan](./implementationPlan.md) · [Edge Cases](./edgeCases.md) · [Folder Structure](./folderStructure.md) · [Gemini Limits](./gemini-limits.md)
 
 ---
 

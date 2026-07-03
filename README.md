@@ -172,6 +172,7 @@ TEST_BASE_URL=https://your-app.vercel.app npm run smoke:test
 
 ## Documentation
 
+- [Solution Overview](./docs/solutionOverview.md)
 - [Problem Statement](./docs/problemStatement.md)
 - [Architecture](./docs/architecture.md)
 - [Implementation Plan](./docs/implementationPlan.md)
