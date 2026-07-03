@@ -22,6 +22,13 @@ const minuteWindow: { ts: number; requests: number; tokens: number }[] = [];
 
 let lastCallAt = 0;
 
+/** Allows the next Gemini call in this instance to skip the inter-call delay (chat orchestration). */
+let orchestrationBurstRemaining = 0;
+
+export function allowOrchestrationBurst(): void {
+  orchestrationBurstRemaining = 1;
+}
+
 function pruneMinuteWindow(now: number): void {
   const cutoff = now - 60_000;
   while (minuteWindow.length > 0 && minuteWindow[0].ts < cutoff) {
@@ -113,6 +120,11 @@ export async function assertQuotaAvailable(estimatedTokens: number): Promise<voi
 }
 
 export async function waitForCallSlot(): Promise<void> {
+  if (orchestrationBurstRemaining > 0) {
+    orchestrationBurstRemaining -= 1;
+    return;
+  }
+
   const elapsed = Date.now() - lastCallAt;
   if (elapsed < GEMINI_MVP_BUDGET.minDelayBetweenCallsMs) {
     await new Promise((r) =>

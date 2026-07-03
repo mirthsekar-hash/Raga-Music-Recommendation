@@ -86,7 +86,7 @@ export async function extractIntent(
       return result;
     } catch (error) {
       lastError = error;
-      if (error instanceof GeminiQuotaExceededError) throw error;
+      if (error instanceof GeminiQuotaExceededError) break;
       if (error instanceof GeminiCircuitOpenError) break;
     }
   }

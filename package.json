@@ -22,7 +22,8 @@
     "eval": "tsx scripts/eval-all.ts",
     "eval:relevance": "tsx scripts/eval-relevance.ts",
     "eval:intent": "tsx scripts/eval-intent.ts",
-    "eval:explain": "tsx scripts/eval-explain.ts"
+    "eval:explain": "tsx scripts/eval-explain.ts",
+    "diagnose:gemini": "tsx scripts/diagnose-gemini.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.0",

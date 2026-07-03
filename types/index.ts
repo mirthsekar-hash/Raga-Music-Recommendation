@@ -6,6 +6,16 @@ export interface HealthCheckResponse {
   supabase: HealthStatus;
   gemini: HealthStatus;
   message?: string;
+  quota?: {
+    dailyRequests: number;
+    dailyLimit: number;
+    minuteRequests: number;
+    minuteLimit: number;
+  };
+  circuit?: {
+    open: boolean;
+    retryAfterMs: number;
+  };
 }
 
 export const SUGGESTED_PROMPTS = [

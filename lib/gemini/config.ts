@@ -21,7 +21,7 @@ export const GEMINI_MVP_BUDGET = {
   maxOutputTokens: {
     health: 16,
     intent: 512,
-    explain: 4096,
+    explain: 2048,
     chat: 256,
   },
   /** Conservative input size guards (chars ≈ tokens/4). */
@@ -32,8 +32,8 @@ export const GEMINI_MVP_BUDGET = {
   },
   /** Estimated tokens reserved per full chat turn for TPM planning. */
   estimatedTokensPerChatTurn: 4_000,
-  /** Minimum gap between Gemini calls (5 RPM ≈ 1 req / 12s). */
-  minDelayBetweenCallsMs: 12_000,
+  /** Minimum gap between Gemini calls (5 RPM ≈ 1 req / 12s; lowered for serverless chat budget). */
+  minDelayBetweenCallsMs: 3_000,
   /** Retries when Gemini returns 429. */
   maxRetriesOn429: 2,
   /** Base backoff for 429 (ms). */

@@ -21,6 +21,7 @@ import { isIrrelevantInput, IRRELEVANT_TOPIC_REPLY } from "@/lib/intent/relevanc
 import { FALLBACK_INTENT } from "@/lib/intent/schema";
 import type { ChatResponse } from "@/lib/explain/schema";
 import { GeminiQuotaExceededError } from "@/lib/gemini/generate";
+import { allowOrchestrationBurst } from "@/lib/gemini/quota";
 import { extractIntent } from "@/lib/intent/extract";
 import { recommendSongs } from "@/lib/scoring/recommend";
 import { sanitizeUserMessage } from "@/lib/sanitize";
@@ -117,6 +118,7 @@ export async function orchestrateChat(
     input.history ?? (session ? historyFromSession(session) : undefined);
 
   onStatus?.("understanding", STATUS_LABELS.understanding);
+  allowOrchestrationBurst();
   const { intent, clarifyingQuestion } = await extractIntent({
     message,
     history,
