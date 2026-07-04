@@ -1,5 +1,7 @@
 "use client";
 
+import { RagaAvatar } from "@/components/ui/RagaAvatar";
+
 interface NavigationLoaderProps {
   message?: string;
 }
@@ -17,9 +19,7 @@ export function NavigationLoader({
       <div className="flex flex-col items-center gap-5 px-8 text-center">
         <div className="relative flex h-16 w-16 items-center justify-center">
           <div className="absolute inset-0 animate-ping rounded-full bg-spotify-green/20" />
-          <div className="flex h-14 w-14 items-center justify-center rounded-full bg-spotify-green text-2xl font-black text-black">
-            ♪
-          </div>
+          <RagaAvatar size="xl" />
         </div>
         <div className="space-y-2">
           <p className="text-sm font-bold text-white">{message}</p>

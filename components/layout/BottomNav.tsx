@@ -1,27 +1,7 @@
 import Link from "next/link";
+import { RagaStar } from "@/components/ui/RagaAvatar";
 
-export function RagaLogo({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
-  const box = size === "sm" ? "h-8 w-8 text-sm" : size === "lg" ? "h-12 w-12 text-xl" : "h-9 w-9 text-base";
-  const text = size === "lg" ? "text-2xl" : size === "sm" ? "text-base" : "text-lg";
-
-  return (
-    <div className="flex items-center gap-2">
-      <div
-        className={`flex ${box} items-center justify-center rounded-full bg-spotify-green font-black text-black`}
-      >
-        ♪
-      </div>
-      <div>
-        <span className={`font-black text-spotify-green ${text}`}>Raga</span>
-        {size !== "sm" && (
-          <p className="text-[10px] leading-tight text-spotify-subtext-dim">
-            AI Music Discovery Companion
-          </p>
-        )}
-      </div>
-    </div>
-  );
-}
+export { RagaLogo } from "@/components/ui/RagaAvatar";
 
 interface BottomNavProps {
   active: "home" | "search" | "raga" | "library";
@@ -77,11 +57,7 @@ function SearchIcon({ active }: { active: boolean }) {
 }
 
 function RagaIcon({ active }: { active: boolean }) {
-  return (
-    <svg width="22" height="22" viewBox="0 0 24 24" fill={active ? "currentColor" : "none"} stroke="currentColor" strokeWidth="2">
-      <path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 17l-6.2 4.3 2.4-7.4L2 9.4h7.6L12 2z" />
-    </svg>
-  );
+  return <RagaStar size={22} filled={active} />;
 }
 
 function LibraryIcon({ active }: { active: boolean }) {

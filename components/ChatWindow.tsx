@@ -9,6 +9,7 @@ import { useSessionStore } from "@/lib/store/session";
 import { AppHeader } from "@/components/layout/AppHeader";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { RecommendationGrid } from "@/components/RecommendationGrid";
+import { RagaAvatar } from "@/components/ui/RagaAvatar";
 import { ChatLoadingSkeleton } from "@/components/ui/Skeleton";
 import { ErrorState } from "@/components/ui/ErrorState";
 import { ServiceBanner } from "@/components/ui/ServiceBanner";
@@ -168,12 +169,7 @@ export function ChatWindow() {
 
         {showWelcome && (
           <div className="mb-6 flex gap-2">
-            <div
-              className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-spotify-green text-sm font-black text-black"
-              aria-hidden
-            >
-              ♪
-            </div>
+            <RagaAvatar size="sm" />
             <div className="max-w-[85%] rounded-2xl rounded-bl-md bg-spotify-highlight px-4 py-3 text-sm text-white">
               {WELCOME}
             </div>
@@ -197,12 +193,7 @@ export function ChatWindow() {
             ) : (
               <div>
                 <div className="flex gap-2">
-                  <div
-                    className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-spotify-green text-sm font-black text-black"
-                    aria-hidden
-                  >
-                    ♪
-                  </div>
+                  <RagaAvatar size="sm" />
                   <div className="max-w-[85%] rounded-2xl rounded-bl-md bg-spotify-highlight px-4 py-3 text-sm text-white">
                     {streamingMessageId === message.id ? (
                       <TypewriterText text={message.content} />
@@ -247,12 +238,7 @@ export function ChatWindow() {
 
         {loading && (
           <div className="flex gap-2 pl-10" role="status" aria-live="polite">
-            <div
-              className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-spotify-green text-sm font-black text-black"
-              aria-hidden
-            >
-              ♪
-            </div>
+            <RagaAvatar size="sm" />
             <div className="flex flex-col gap-1 rounded-2xl bg-spotify-highlight px-4 py-3">
               <div className="flex items-center gap-1">
                 <span className="h-2 w-2 animate-bounce rounded-full bg-spotify-subtext [animation-delay:-0.3s]" />
